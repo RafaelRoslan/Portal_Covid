@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
 
-  <title>Hello, world!</title>
+  <title>Portal Covid</title>
 </head>
 
 <body>
@@ -18,20 +18,38 @@
   <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-danger bg-opacity-50">
       <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#teste" aria-controls="teste" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="teste">
+        <div class="collapse navbar-collapse" id="navbar">
           <a class="navbar-brand" href="#">Portal Covid</a>
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
+              <a class="nav-link" href="#">O que é</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled">Desabilitado</a>
+              <a class="nav-link" href="#">Consequências</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Variantes</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Prevenção</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Vacinas</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Disseminação</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Quem Somos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contato</a>
             </li>
           </ul>
           <form class="d-flex">
