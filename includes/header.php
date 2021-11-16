@@ -14,14 +14,7 @@
 </head>
 
 
-<?php
-if(isset($_GET['page'])) {
-    $page = $_GET['page'];
-    echo($page);
-} else {
-    // set proper default value if it was not set
-    $page = 'index';
-}?>
+<?php $pagina_atual = $_SERVER["REQUEST_URI"]; ?>
 
 <body>
   <header>
@@ -39,31 +32,31 @@ if(isset($_GET['page'])) {
           
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "index.php") echo "disabled"; ?>" href="index.php">Home</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? "disabled" : ''; ?>" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "oquee.php") echo"disabled"; ?>" href="oquee.php">O que é</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'oquee.php') ? "disabled" : ''; ?>" href="oquee.php">O que é</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "consequencia.php") echo "disabled"; ?>" href="consequencia.php">Consequências</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'consequencia.php') ? "disabled" : ''; ?>" href="consequencia.php">Consequências</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "variante.php") echo "disabled"; ?>" href="variante.php">Variantes</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'variante.php') ? "disabled" : ''; ?>" href="variante.php">Variantes</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "prevencao.php") echo "disabled"; ?>" href="prevecao.php">Prevenção</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'prevencao.php') ? "disabled" : ''; ?>" href="prevencao.php">Prevenção</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "vacina.php") echo "disabled"; ?>" href="vacina.php">Vacinas</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'vacina.php') ? "disabled" : ''; ?>" href="vacina.php">Vacinas</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "disseminacao.php") echo "disabled"; ?>" href="disseminacao.php">Disseminação</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'disseminacao.php') ? "disabled" : ''; ?>" href="disseminacao.php">Disseminação</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "quemsomos.php") echo "disabled"; ?>" href="quemsomos.php">Quem Somos</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'quemsomos.php') ? "disabled" : ''; ?>" href="quemsomos.php">Quem Somos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link <?php if($page == "contato.php") echo "disabled"; ?>" href="contato.php">Contato</a>
+              <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contato.php') ? "disabled" : ''; ?>" href="contato.php">Contato</a>
             </li>
           </ul>
           <form class="d-flex">
@@ -78,4 +71,4 @@ if(isset($_GET['page'])) {
   <br>
 
   <main class="container py-5">
-        <!-- inicio conteudo -->
+        <!-- INICIO DA PAGINA -->

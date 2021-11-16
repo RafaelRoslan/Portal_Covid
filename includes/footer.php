@@ -1,10 +1,10 @@
- <!-- fim conteudo -->
+ <!-- FIM DA PAGINA -->
 
  </main>
 
-
-<footer class="container py-5">
-  <div class="row">
+<div class="bg-danger bg-opacity-50">
+<footer class="container py-5 ">
+  <div class="row ">
     <section class="col-5 offset-1">
       <h5>Seção</h5>
       <ul class="nav flex-column">
@@ -57,6 +57,7 @@
     </ul>
   </section>
 </footer>
+</div>
 
 <script src="js/bootstrap.bundle.min.js"></script>
 </body>
