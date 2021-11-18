@@ -27,7 +27,7 @@
         </button>
 
         <a href="index.html"><img src="imagens/target.svg" alt="icone"></a>
-        <a class="navbar-brand" href="#">Portal Covid</a>
+        <a class="navbar-brand" href="../index.php">Portal Covid</a>
         <div class="collapse navbar-collapse" id="teste">
           
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -71,4 +71,3 @@
   <br>
 
   <main class="container py-5">
-        <!-- INICIO DA PAGINA -->
