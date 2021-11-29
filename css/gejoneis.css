@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+
+
+
+/* PARTE ANDERSON  */
+
+
+.caixaimg {
+    object-fit: cover;
+    height: 400px;
+    }     
+
+
+.corcard {
+    background-color: #f0f0f0;
+}
+
+.corcard2 {
+    background-color:white;
+    border-radius: 0 0 20px 20px;
+}
+
+.testeremover {
+    text-decoration: none;
+}
+
+
+.tamanhofonte {
+    font-size: 24px;
+}
+
+.cor {
+    background-color: #C7F9E2;
+}
+
+
+.cor3 {
+    background-color: #71AD8A;
+
+    /* background-color: #7BBFC0; */
+}
+
+
+
+.cor2 {
+    background-color:rgb(107, 233, 212);
+}
+
+
+/* PARTE ANDERSON */
+
+
