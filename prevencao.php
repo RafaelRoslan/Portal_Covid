@@ -69,7 +69,7 @@
     
     <div class="col">
         <div class="card corcard">
-          <img src="imagens/5" class="card-img-top caixaimg" alt="...">
+          <img src="imagens/distanciamento" class="card-img-top caixaimg caixapo" alt="...">
           <div class="card-body">
             <h5 class="card-title">DISTANCIAMENTO SOCIAL</h5>
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#teste4" aria-expanded="true" aria-controls="collapseOne">
@@ -88,18 +88,17 @@
 
     <div class="col">
         <div class="card corcard">
-          <img src="imagens/1" class="card-img-top caixaimg" alt="...">
+          <img src="imagens/tosse" class="card-img-top caixaimg" alt="...">
           <div class="card-body">
-            <h5 class="card-title">IMAGEM MERAMENTE ILUSTRATIVA</h5>
+            <h5 class="card-title">CUBRA TOSSES E ESPIRROS</h5>
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#teste5" aria-expanded="true" aria-controls="collapseOne">
                       Veja aqui
                     </button>
             
             <section class="accordion-body accordion-collapse collapse corcard2" aria-labelledby="headingOne" id="teste5" >
-              <p>Limitar o contato próximo entre pessoas infectadas e outras pessoas é importante para reduzir as chances de transmissão. Seguir as medidas de distanciamento diminui a velocidade de transmissão do vírus. </p>
-              <p>Trata-se de uma estratégia importante quando há indivíduos já infectados, mas ainda assintomáticos ou oligossintomáticos, que não se sabem portadores da doença e não estão em isolamento.</p>
-              <p>Além disso, recomenda-se a manutenção de uma distância física mínima de pelo menos 1 metro de outras pessoas, especialmente daquelas com sintomas respiratórios e um grande número de pessoas (aglomerações) tanto ao ar livre quanto em ambientes fechados.</p>
-              <p>Garantir uma boa ventilação em ambientes internos também é uma medida importante para prevenir a transmissão em ambientes coletivos.</p>
+              <p>Se você não estiver de máscaras, lembre-se de sempre cobrir a boca e o nariz com um lenço de papel quando tossir ou espirrar ou usar a parte interna do cotovelo e não cuspir.</p>
+              <p>Jogue os lenços de papel e outros tecidos usados ​​no lixo.</p>
+              <p>Lembre-se de lavar imediatamente as mãos.</p>
             </section>
           </div>
         </div>
