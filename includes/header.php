@@ -8,13 +8,13 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/estilo.css">
 
   <title>Portal Covid</title>
 </head>
 
 
-<?php $pagina_atual = $_SERVER["REQUEST_URI"]; ?>
+
 
 <body>
   <header>
@@ -25,10 +25,9 @@
           aria-controls="teste" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-
         <a href="index.html"><img src="imagens/target.svg" alt="icone"></a>
         <a class="navbar-brand" href="../index.php">Portal Covid</a>
-        <div class="collapse navbar-collapse" id="teste">
+        <div class="collapse navbar-collapse sublinhado" id="teste">
           
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
@@ -70,4 +69,4 @@
 
   <br>
 
-  <main class="container py-5">
+

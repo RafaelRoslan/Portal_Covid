@@ -1,11 +1,11 @@
 
- </main>
+
 
 <div class="bg-danger bg-opacity-50">
-<footer class="container py-5 ">
-  <div class="row ">
-    <section class="col-5 offset-1">
-      <h5>Seção</h5>
+<footer class="container py-5 mt-5 ">
+  <div class="row offset-1 sublinhado centralizar">
+    <section class="col-10 col-sm-12 col-md-12 col-lg-3 text-justify ">
+      <h5>Mapa do Site</h5>
       <ul class="nav flex-column">
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">O que &eacute;</a></li>
@@ -16,8 +16,7 @@
       </ul>
     </section>
 
-    <section class="col-5 offset-1">
-      <h5>Seção</h5>
+    <section class="col-10 col-sm-10 col-md-12 col-lg-3 text-justify">
       <ul class="nav flex-column">
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Vacinas</a></li>
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Disseminação</a></li>
@@ -27,19 +26,17 @@
         
       </ul>
     </section>
-  </div>
-  <br />
-  <section class="col-10 offset-1">
-    <form>
-      <h5>Assine a nossa newsletter</h5>
-      <p>Resumo mensal de nossas novidades.</p>
+
+    <form class="col-10 col-sm-8 col-md-8 col-lg-5 text-justify">
+      <h5 class="text-center">Assine a nossa newsletter</h5>
+      <p class="text-center">Resumo mensal de nossas novidades.</p>
       <div class="d-flex w-100 gap-2">
         <label for="newsletter1" class="visually-hidden">Endereço de e-mail</label>
         <input id="newsletter1" type="text" class="form-control" placeholder="Endereço de e-mail">
         <button class="btn btn-danger bg-opacity-50" type="button">Se inscrever</button>
       </div>
     </form>
-  </section>
+  </div>
 
   <section class="d-flex justify-content-between py-4 my-4 border-top">
     <p>© 2021 Gesonéis, Grupo. Todos os direitos reservados.</p>
