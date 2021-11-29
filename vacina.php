@@ -1,35 +1,52 @@
 <?php include_once('includes/header.php'); ?>
+<link rel="stylesheet" type="text/css" href="css/vacina.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- inicio do conteudo -->
 
-<div class="row">
-    <section class="col-9 offset-2">
-      <img src="imagens/vacina.jpg">
-    </section>
-</div>
-<div class="row">
-    <article class="col-4 offset-1">
-      <h2>O que são as vacinas contra a COVID-19?</h2>
-      <p>As vacinas são um metodo de prevenção contra doenças, que ajudam nosso sistema imunologico a se preparar e se proteger contra futuros ataques. As vacinas produzidas durante a pandemia da COVID-19, utilissam diferentes metodos que trabalham em nosso organismo, desenvolver barreiras, fazendo com que os sintomas da doença, caso contraída, sejam menores e não agressivos. As vacinas não foram feitas para que a doença não seja mais contraida, mas sim para que se contraida, não hajam mais mortes. As vacinas possuem diferentes regras para sua segunda aplicação, assim como cada vacina tem mais eficácia em certos organismos. </p>
-      <h4>Pfizer</h4>
-      <p>A vacina da Pfizer foi desenvolvida em uma parceria com o laboratorio BioNTech e utiliza um RNA mensageiro sintético para auxiliar o organismo do homem consiga gerar anticorpos para sua proteção. O tempo para que a segunda dose seja aplicada seja em um intervalo de 3 meses. Segundo a Anvisa (Agência Nacional de Vigilância Sanitária), a vacina da Pfizer é a unica aprovada que pode ser aplicada em adolecentes e em grávidas.</p>
-      <p>As reações da vacina podem aparecer entre 1 e 2 dias após sua aplicação. Os sintomas mais comuns incluem dor, inchaço ou vermelhidão no local da aplicação, cansaço, calafrios, febre, nausea, vômito e dor no corpo. Dependendo do organismo do individuo, as reações podem não acontecer, não sendo algo certo de ocorrer com todos.</p>
-      <h4>Coronavac</h4>
-      <p>Vacina criada com uma tecnologia molecular, assim como as vacinas da gripe, poliomielite, hepatite e meningite, é feita por um vírus inativo ou vírus "morto", onde apenas a parte responsavel pelo reconhecimento do vírus é injetada para que o nosso organismo crie a imunidade contra ele, não permitindo que se multiplique e ataque o organismo.</p>
-      <p>O esquema de vacinação é com uma dose de reforço depois de 4 semanas, para reforço nos anticorpos produzidos.As reações desta vacina são mais leves, sendo dor no local, dores de cabeça ou não ter reação alguma.</p>
-    </article>
+
+<body>
+    <div class="row">
+        <section class="col-6 offset-3">
+            <img class="ser" src="imagens/seringa.png" alt="Desenho de seringa">
+        </section>
+        <nav>
+            <?php include_once('includes/nav_center.php'); ?>
+        </nav>
+    </div>
+    <div class="row">
+        <article class="col-5 offset-1">
+            <h2>O que são as vacinas?</h2>
+
+            <p>As vacinas são um metodo de prevenção contra doenças, que ajudam nosso sistema imunologico a se preparar e se proteger contra futuros ataques. As vacinas produzidas durante a pandemia da COVID-19, utilizam diferentes metodos que trabalham em nosso organismo, para desenvolver barreiras, fazendo com que os sintomas da doença, caso contraída, sejam menores e não agressivos. As vacinas nos protegem de forma segura e eficaz e permitem que nosso sistema imunológico esteja preparado para combater determinadas infecções, caso ocorram.</p>
+
+            <h2>O que são as vacinas contra a COVID-19?</h2>
+
+            <p>Cada vacina é produzida com uma tecnologia para produção de anticorpos. Todas as vacinas são seguras e eficazes. Independente da tecnologia utilizada, esses imunizantes foram testados, tiveram sua eficácia comprovada por meio de estudos, avaliados e reavaliados por cientistas, e são aplicados em larga escala no mundo todo.</p>
+
+            <h2>A vacina do COVID-19 e os negacionistas</h2>
+
+            <p>A justificativa sobre não tomar vacinas pode variar entre as reações mais leves à perda de neuronios. Os negacionistas ou anti-vac tem a certeza que todas as vacinas são apenas uma maneira de prejudicar a saúde da população em massa, principalmente a vacina contra o COVID-19. Pesquisas ja comprovaram a eficacia das vacinas, mas mesmo com provas apresentadas, os negacionistas afirmam que essas provas são feitas para enganar a população.</p>
+
+            <p>O movimento negacionista trata-se de um movimento organizado, que se beneficia do cenário de confusão e ansiedade alimentado pelos boatos. São pessoas que colocam em dúvida não apenas a segurança e a eficácia das vacinas, mas também de outras rotinas de saúde pública comprovadamente benéficas como, por exemplo, o flúor na água.</p>
+
+            <p>Mesmo com tantos absurdos sendo ditos, ainda temos pessoas que acreditam neste absurdo. Para que não acreditem nisso e fake news não sejam disseminadas, temos evidências que indicam que pessoas totalmente vacinadas têm menos probabilidade de infecção, incluindo assintomática, de adoecer de forma grave e de transmitir o vírus a outras pessoas. O grau de proteção, entretanto, pode variar de acordo com a resposta imunológica de cada indivíduo, das variantes do vírus em circulação e do tempo decorrido desde a vacinação.</p>
+            <p>É importante ressaltar que completar o esquema é essencial para obter a proteção máxima contra a enfermidade. Além disso, com um grande percentual da população adequadamente vacinado, podemos reduzir a circulação do vírus, as chances de infecção das pessoas que não respondem bem às vacinas ou não podem ser vacinadas e dificultar o surgimento de variantes mais agressivas.</p>
+
+            <p>Recortes retirados de: <a class="recort" href="https://familia.sbim.org.br/covid-19/perguntas-e-respostas/vacinas-covid-19-eficacia-seguranca-e-duracao-de-protecao">SBIM Familia,</a><a class="recort" href="https://www.pfizer.com.br/sua-saude/vacinacao/tudo-sobre-vacinas">Pfizer</a></p>
+        </article>
 
 
-    <aside class="col-4 offset-2">
-      <h3>Noticias</h3>
-      <p>Colocar include de noticia. (ver se rola)</p>
-      <h4>Astrazeneca</h4>
-      <p>A vacina Oxford-Astrazeneca é britânica e utiliza um “vetor viral”, que consiste na utilização de um vírus modificado para estimular a produção de anticorpos no organismo. A vacina carrega uma parte do material genético do vírus, responsavel pela produção da proteína que auxilia o vírus a invadir as células. Assim, com a proteina formada no organismo, ela ensina que toda particula contendo a mesma proteína criada deve ser destruida.</p>
-      <p>O intervalo entre as aplicações é de 3 meses para reforço. A reação desta vacina variam entre dores na cabeça e no corpo à ter sintomas de gripe.</p>
-      <h4>Jansen</h4>
-      <p>A vacina produzida pelo laboratório da Johnson & Johnson, assim como a vacina Oxford-Astrazeneca, utiliza da mesma tecnologia do "vetor viral", sendo diferente em que sua dose é unica, com imunização completa em apenas 14 dias após a aplicação. Durante a pandemia no Brasil, ela foi utilizada na aplicação de moradores de rua, justamente por ser de dose única. </p>
-
-    </aside>
-  </div>
+        <aside class="col-3 offset-2">
+            <h3>Noticias</h3>
+            <img class="vac" src="imagens/vacina.jpg" alt="Imagem com ampolas das vacinas contra COVID-19.">
+            <a class="not1" href= "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2021/11/27/vacinacao-contra-a-covid-mais-de-62percent-da-populacao-esta-totalmente-imunizada.ghtml">Vacinação contra a Covid: mais de 62% da população está totalmente imunizada.</a>
+            <p>No total, 132.586.608 pessoas tomaram a segunda dose ou a dose única de vacina, o equivalente a 62,15% da população.</p>
+            <img class="vac" src="imagens/noticia2.jpeg" alt="Imagem com ampolas das vacinas contra COVID-19.">
+            <a class="not1" href= "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2021/11/27/vacinacao-contra-a-covid-mais-de-62percent-da-populacao-esta-totalmente-imunizada.ghtml">Árvore de Natal feita com frascos de vacinas contra Covid homenageia profissionais da saúde em MS.</a>
+            <p>Com mais de 3 mil frascos, a ideia é homenagear os profissionais que trabalharam na linha de frente do combate a pandemia e conscientizar a população sobre a importância da vacinação.</p>
+        </aside>
+    </div>
+</body>
 
 
 <!-- fim do conteudo -->

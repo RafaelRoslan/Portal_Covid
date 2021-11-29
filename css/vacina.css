@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+section{
+    margin-bottom: 1%;
+}
+nav{
+    margin-bottom: 1%;
+}
+.ser{
+    width: 100%;
+}
+.vac{
+    width: 100%;
+}
+.not1{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}
+.not1:hover, .active {
+    color: #ed9aa2 !important;
+}
+.recort{
+    text-decoration: none;
+    color: black;
+}
+.recort:hover, .active {
+    color: #ed9aa2 !important;
+}
