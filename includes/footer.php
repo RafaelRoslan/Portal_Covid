@@ -1,7 +1,4 @@
-
- </main>
-
-<div class="bg-danger bg-opacity-50">
+<div class="cor3">
 <footer class="container py-5 ">
   <div class="row ">
     <section class="col-5 offset-1">
@@ -36,7 +33,7 @@
       <div class="d-flex w-100 gap-2">
         <label for="newsletter1" class="visually-hidden">Endereço de e-mail</label>
         <input id="newsletter1" type="text" class="form-control" placeholder="Endereço de e-mail">
-        <button class="btn btn-danger bg-opacity-50" type="button">Se inscrever</button>
+        <button class="btn cor2" type="button">Se inscrever</button>
       </div>
     </form>
   </section>
