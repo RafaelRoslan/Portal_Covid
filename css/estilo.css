@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.text-justify {
+    text-align: justify;
+  }
+
+.fundo {
+    background-color: #f5f5f5;
+}
+
+@media only screen and (max-width: 578px) {
+  .centralizar section,h2 {
+    text-align:center;
+  }
+}
+
+.sublinhado a:hover{
+  text-decoration-line: underline;
+}
