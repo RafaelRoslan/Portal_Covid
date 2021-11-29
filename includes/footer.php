@@ -1,11 +1,11 @@
 
 
-
 <div class="bg-danger bg-opacity-50">
 <footer class="container py-5 mt-5 ">
   <div class="row offset-1 sublinhado centralizar">
     <section class="col-10 col-sm-12 col-md-12 col-lg-3 text-justify ">
       <h5>Mapa do Site</h5>
+
       <ul class="nav flex-column">
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">O que &eacute;</a></li>
@@ -33,7 +33,7 @@
       <div class="d-flex w-100 gap-2">
         <label for="newsletter1" class="visually-hidden">Endereço de e-mail</label>
         <input id="newsletter1" type="text" class="form-control" placeholder="Endereço de e-mail">
-        <button class="btn btn-danger bg-opacity-50" type="button">Se inscrever</button>
+        <button class="btn cor2" type="button">Se inscrever</button>
       </div>
     </form>
   </div>

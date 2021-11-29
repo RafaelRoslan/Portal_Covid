@@ -8,7 +8,10 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
+
   <link rel="stylesheet" href="css/estilo.css">
+  <link rel="stylesheet" href="css/gejoneis.css">
+
 
   <title>Portal Covid</title>
 </head>
@@ -18,7 +21,7 @@
 
 <body>
   <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-danger bg-opacity-50">
+    <nav class="navbar navbar-expand-lg navbar-light cor">
       <div class="container-fluid">
         
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#teste"
@@ -66,7 +69,6 @@
       </div>
     </nav>
   </header>
+  
 
   <br>
-
-
