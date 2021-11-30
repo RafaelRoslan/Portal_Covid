@@ -28,8 +28,8 @@
           aria-controls="teste" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <a href="index.html"><img src="imagens/target.svg" alt="icone"></a>
-        <a class="navbar-brand" href="../index.php">Portal Covid</a>
+        <a href="index.php"><img src="imagens/target.svg" alt="icone"></a>
+        <a class="navbar-brand" href="index.php">Portal Covid</a>
         <div class="collapse navbar-collapse sublinhado" id="teste">
           
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
