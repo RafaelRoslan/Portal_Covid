@@ -1,10 +1,6 @@
 <?php include_once('includes/header.php'); ?>
 <!-- inicio do conteudo -->
 
-
- 
-
-
 <main class="container text-justify ">
 
     <article class="mt-2 mb-4">
@@ -13,9 +9,9 @@
  
   <?php include_once('includes/dissem_nav.php'); ?>
   
-  <article class="row mt-5 justify-content-evenly align-items-center">
-    <div class="col-12 col-sm-8 col-md-8 col-lg-4">
-      
+  <div class="row py-4 justify-content-evenly align-items-center">
+    <article class="col-10 col-sm-8 col-md-10 col-lg-7">
+      <h2 class="text-center">Visão Geral</h2>
       <p>Em 31 de dezembro de 2019, a Organização Mundial da Saúde &#40;OMS&#41; foi alertada sobre vários casos de
         pneumonia na cidade de Wuhan, província de Hubei, na República Popular da China. Tratava-se de uma nova cepa &#40;tipo&#41;de coronavírus que não havia sido identificada antes em seres humanos.</p>
       <p>Uma semana depois, em 7 de janeiro de 2020, as autoridades chinesas confirmaram que haviam identificado um novo
@@ -31,15 +27,13 @@
         manter o sistema de vigilância alerta, preparado para detectar, isolar e cuidar precocemente de pacientes
         infectados com o novo coronavírus.</p>
 
-    </div>
+</article>
 
 
-    <aside class="col-12 col-sm-8 col-md-8 col-lg-4">
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima quae iusto suscipit obcaecati nesciunt error at
-        dignissimos, earum modi distinctio rerum dolorum odio quia quos ipsa corporis mollitia aspernatur architecto!
-      </p>
+    <aside class="col-10 col-sm-8 col-md-8 col-lg-4">
+      <img src="imagens/corona_geral.png" class="img-fluid" alt="ilustração que representa o corona virus como o planeta terra.">
     </aside>
-  </article>
+</div>
 </main>
 
 <!-- fim do conteudo -->
