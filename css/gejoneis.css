@@ -9,10 +9,18 @@
     background-color: #5e8888;
 }
 
+.corcard {
+    background-color: #f0f0f0;
+}
 
+.caixapo {
+    object-position: 20%;
+    }   
 
-
-
+.caixaimg {
+    object-fit: cover;
+    height: 400px;
+    }   
 
 
 
@@ -23,67 +31,14 @@
 
 /* PARTE ANDERSON  */
 
-/* .cardaltura {
-    height: 50rem;
-}
-
-.cardaltura2 {
-    height: 40rem;
-} */
+/* TESTE */
 
 
+/* TESTE */
 
-
-/* ul li a {
-    : white;
-} */
 
 .botao_cor {
     background-color: #8FCACA;
-}
-
-.testcor {
-    color: white; 
-}
-
-.caixaimg {
-    object-fit: cover;
-    height: 400px;
-    }     
-
-.caixapo {
-        object-position: 20%;
-        }   
-
-.corcard {
-    background-color: #f0f0f0;
-}
-
-.corcard2 {
-    background-color:white;
-    border-radius: 0 0 20px 20px;
-}
-
-.testeremover {
-    text-decoration: none;
-}
-
-
-.tamanhofonte {
-    font-size: 24px;
-}
-
-
-.cor3 {
-    background-color: #71AD8A;
-
-    /* background-color: #7BBFC0; */
-}
-
-
-
-.cor2 {
-    background-color:rgb(107, 233, 212);
 }
 
 
