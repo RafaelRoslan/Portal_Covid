@@ -28,7 +28,7 @@
     </section>
 
     <form class="col-10 col-sm-8 col-md-8 col-lg-5 text-justify">
-      <h5 class="text-center testcor">Assine a nossa newsletter</h5>
+      <h5 class="text-center">Assine a nossa newsletter</h5>
       <p class="text-center">Resumo mensal de nossas novidades.</p>
       <div class="d-flex w-100 gap-2">
         <label for="newsletter1" class="visually-hidden">Endereço de e-mail</label>

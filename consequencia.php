@@ -1,51 +1,37 @@
 <?php include_once('includes/header.php'); ?>
 <!-- inicio do conteudo -->
+<main class="container">
 
-
-<main class="container py-5">
-
-<div class="card text-center">
-  <div class="card-header">
-    <ul class="nav nav-tabs card-header-tabs">
-      <li class="nav-item">
-        <a class="nav-link active" aria-current="true" href="#">Active</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled">Disabled</a>
-      </li>
-    </ul>
-  </div>
-  <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-
-
-
-<!-- <div class="row">
-    <article class="col-6 offset-1">
-      <h2>TEXTO EXEMPLO</h2>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-
+    <article class="pb-4">
+      <h2 class="text-center">IMPACTO DO COVID</h2>    
+        <p>A pandemia do coronavírus assumiu no Brasil a dimensão de uma catástrofe humanitária. Centenas de milhares de pessoas perderam a vida, outras tantas apresentam as sequelas de uma lenta recuperação, e milhões foram levados ao desemprego e à faixa da pobreza extrema. </p>        
+        <p>O drama se aprofunda pelo fato de que experimentamos quatro grandes crises simultâneas e interconectadas: sanitária, econômica, política e comportamental. São diversos os fatores que as retroalimentam, tais como o negacionismo, a necropolítica, a gestão pública mórbida e ineficiente, a indiferença com o próximo e a falta de coordenação no nível federal. </p> 
+        <p>A crueldade da pandemia de Covid-19 tem deixado marcas profundas na história, com quase 4 milhões de vidas perdidas. Em nenhuma das crises sanitárias do século 21 o número de mortes foi tão grande, ou exigiu do Estado a injeção de recursos financeiros em escala tão elevada com o fim de reduzir os impactos econômicos e o agravamento das desigualdades sociais. </p>
     </article>
 
-    <aside class="col-3 offset-1">
-      <h3>TEXTO EXEMPLO</h3>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
+    <section class="row col-12 pb-4">
+      <img src="imagens/comercio" class="col-md-5">
+        <div class="col-md-7">
+            <h3 class="text-center">COMERCIO</h3>
+            <p>A pandemia de Covid-19 afetou de maneira expressiva a atividade econômica, impondo um padrão de gestão do tipo stop and go, isto é: quando pioram os dados de saúde, fecha-se a economia; quando os dados melhoram, ela é reaberta. Porém, a intensidade de seus efeitos variou bastante em cada setor.</p>
+            <p>Se dividirmos a economia em grandes grupos de atividade para análise, veremos que os setores de serviços e de comércio foram os mais afetados pela pandemia, devido às medidas de isolamento social para diminuir o ritmo de contágio pela Covid-19. As perdas no faturamento do comércio resultaram na redução de 1,7 milhão de postos de trabalho em 2020, dentre um total de 16 milhões de pessoas que trabalhavam no setor no período imediatamente anterior à crise.</p>
+        </div>
+    </section>
 
-    </aside>
-  </div> -->
+
+    <section class="row col-12">
+      <div class="col-md-7">
+        <h3 class="text-center">MERCADO DE TRABALHO</h3>
+        <p> Os trabalhadores mais afetados foram aqueles com menor grau de instrução que atuam em subocupações (que são os que trabalham menos de 40 horas em suas ocupações, e que gostariam de trabalhar mais horas) ou como informais. A forte precarização das relações trabalhistas, anterior à crise pandêmica, favoreceu a adoção do regime de trabalho intermitente na economia brasileira, uma modalidade na qual o funcionário trabalha apenas algumas horas por semana, o que não apenas reduz a jornada de trabalho, mas também implica significativas perdas de renda. Já a análise da crise sob a perspectiva de gênero revela que os custos da pandemia recaíram mais fortemente sobre as mulheres do que sobre os homens. O fechamento das escolas e das creches, que viabilizavam a dupla jornada, impôs às mulheres o cuidado dos filhos, assim como a necessidade de cuidados com os idosos da família. A pandemia trouxe efeitos devastadores para a população economicamente mais vulnerável, assalariada ou que exercia trabalhos informais, na qual o percentual de negros é expressivo. Nesse sentido, essa população foi duplamente afetada, pela perda da renda e pela impossibilidade de fazer o distanciamento social.</p>
+      </div>
+
+      <img src="imagens/trabalho" class="col-md-5">
+    </section>
+
 
 
 </main>
+
 
 <!-- fim do conteudo -->
 <?php include_once('includes/footer.php'); ?> 

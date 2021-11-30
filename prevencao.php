@@ -4,14 +4,14 @@
 <main class="container py-5">
 
 
-<h1 class="tamanhofonte">Usar máscara de proteção, manter os cuidados básicos de higiene e evitar aglomerações, são algumas forma de se proteger do Covid-19.</h1>
+<h1>Usar máscara de proteção, manter os cuidados básicos de higiene e evitar aglomerações, são algumas forma de se proteger do Covid-19.</h1>
 <br>
 <h4> COMO SE PROTEGER: </h4>
 
   <div class= "row row-cols-1 row-cols-md-2 g-4">
 
     <div class="col">
-        <div class="card corcard cardaltura">
+        <div class="card corcard">
           <img src="imagens/mascara" class="card-img-top caixaimg " alt="...">
           <div class="card-body">
             <h5 class="card-title">USO DA MÁSCARA</h5>
@@ -27,11 +27,26 @@
           </div>
         </div>
     </div>
+   
 
-    
-  
     <div class="col">
-        <div class="card corcard cardaltura">
+        <div class="card corcard">
+          <img src="imagens/2" class="card-img-top caixaimg" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">HIGIENENIZAÇÃO</h5>
+            
+            <section>
+              <p>Medidas básicas na rotina diária, como lavar as mãos são fundamentais para a redução do contágio.</p>
+              <p> O vírus também pode ser transferido de uma superfície para outra por meio das mãos contaminadas, o que facilita a transmissão por contato indireto.</p>
+              <p>Consequentemente, a higienização das mãos é extremamente importante para evitar a disseminação do vírus causador da covid-19. Ela também interrompe a transmissão de outros vírus e bactérias que causam resfriado comum, gripe e pneumonia, reduzindo assim o impacto geral da doença.</p>
+              <p>No caso específico da higienização, é recomendado o uso do álcool a 70% como desinfetante e antissépticos para as mãos. </p>
+            </section>
+          </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="card corcard ">
           <img src="imagens/distanciamento" class="card-img-top caixaimg caixapo" alt="...">
           <div class="card-body">
             <h5 class="card-title">DISTANCIAMENTO SOCIAL</h5>
@@ -48,21 +63,7 @@
     </div>
 
     <div class="col">
-        <div class="card corcard cardaltura">
-          <img src="imagens/2" class="card-img-top caixaimg" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">HIGIENENIZAÇÃO</h5>
-            
-            <section>
-              <p>Medidas básicas na rotina diária, como lavar as mãos são fundamentais para a redução do contágio.</p>
-              <p> O vírus também pode ser transferido de uma superfície para outra por meio das mãos contaminadas, o que facilita a transmissão por contato indireto. Consequentemente, a higienização das mãos é extremamente importante para evitar a disseminação do vírus causador da covid-19. Ela também interrompe a transmissão de outros vírus e bactérias que causam resfriado comum, gripe e pneumonia, reduzindo assim o impacto geral da doença. No caso específico da higienização, é recomendado o uso do álcool a 70% como desinfetante e antissépticos para as mãos. </p>
-            </section>
-          </div>
-        </div>
-    </div>
-
-    <div class="col">
-        <div class="card corcard cardaltura">
+        <div class="card corcard">
           <img src="imagens/3" class="card-img-top caixaimg" alt="...">
           <div class="card-body">
             <h5 class="card-title">CUIDADOS NO AMBIENTE DE TRABALHO</h5>
@@ -77,7 +78,7 @@
     </div>
 
     <div class="col">
-        <div class="card corcard cardaltura2">
+        <div class="card corcard">
           <img src="imagens/tosse" class="card-img-top caixaimg" alt="...">
           <div class="card-body">
             <h5 class="card-title">CUBRA TOSSES E ESPIRROS</h5>
@@ -93,7 +94,7 @@
 
     
     <div class="col">
-          <div class="card corcard cardaltura2">
+          <div class="card corcard">
             <img src="imagens/4" class="card-img-top caixaimg" alt="...">
             <div class="card-body">
               <h5 class="card-title">CUIDADOS COMPLEMENTARES</h5>
