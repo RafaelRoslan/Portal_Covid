@@ -1,20 +1,19 @@
 <?php include_once('includes/header.php'); ?>
 <link rel="stylesheet" type="text/css" href="css/vacina.css">
-<link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- inicio do conteudo -->
 
 
-<body>
+<main>
     <div class="row">
-        <section class="col-6 offset-3">
+        <section class="col-8 col-sm-12 col-md-8 col-lg-8 offset-2">
             <img class="ser" src="imagens/seringa.png" alt="Desenho de seringa">
         </section>
-        <nav>
+        <nav class="col-10 col-sm-10 col-md-10 col-lg-10 offset-1">
             <?php include_once('includes/nav_center.php'); ?>
         </nav>
     </div>
     <div class="row">
-        <article class="col-5 offset-1">
+        <article class="col-8 col-sm-12 col-md-8 col-lg-3 offset-2">
             <h2>O que são as vacinas?</h2>
 
             <p>As vacinas são um metodo de prevenção contra doenças, que ajudam nosso sistema imunologico a se preparar e se proteger contra futuros ataques. As vacinas produzidas durante a pandemia da COVID-19, utilizam diferentes metodos que trabalham em nosso organismo, para desenvolver barreiras, fazendo com que os sintomas da doença, caso contraída, sejam menores e não agressivos. As vacinas nos protegem de forma segura e eficaz e permitem que nosso sistema imunológico esteja preparado para combater determinadas infecções, caso ocorram.</p>
@@ -36,7 +35,7 @@
         </article>
 
 
-        <aside class="col-3 offset-2">
+        <aside class="col-8 col-sm-12 col-md-8 col-lg-3 offset-2">
             <h3>Noticias</h3>
             <img class="vac" src="imagens/vacina.jpg" alt="Imagem com ampolas das vacinas contra COVID-19.">
             <a class="not1" href= "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2021/11/27/vacinacao-contra-a-covid-mais-de-62percent-da-populacao-esta-totalmente-imunizada.ghtml">Vacinação contra a Covid: mais de 62% da população está totalmente imunizada.</a>
@@ -46,7 +45,7 @@
             <p>Com mais de 3 mil frascos, a ideia é homenagear os profissionais que trabalharam na linha de frente do combate a pandemia e conscientizar a população sobre a importância da vacinação.</p>
         </aside>
     </div>
-</body>
+</main>
 
 
 <!-- fim do conteudo -->
