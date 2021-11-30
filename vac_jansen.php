@@ -20,7 +20,7 @@
                 <p>A eficácia da vacina indica a capacidade do imunizante em conferir proteção imunológica a um determinado agente, no caso, o vírus SARS-CoV-2. O termo é utilizado quando falamos da fase 3 dos ensaios clínicos, ou seja, para fazer referência ao percentual de pessoas vacinadas, nas condições controladas do estudo, que adquiriram imunidade ao vírus.</p>
                 <p>A tecnologia biomolecular baseada no chamado “vetor viral”, que consiste na utilização de um vírus modificado para estimular o sistema imunológico a produzir anticorpos contra o novo coronavírus.Durante o processo de fabricação da vacina, uma espécie de vírus "enfraquecido", após ser modificado para não se multiplicar (tornando-o não replicante), carrega parte do material genético do SARS-CoV-2 responsável pela produção de uma proteína, chamada Spike, que auxilia o vírus da COVID-19 a invadir as células humanas.</p>
             
-                <p>Recortes retirados de: <a href="https://coronavirus.saude.mg.gov.br/blog/331-vacinacao-covid-19-janssen"></a>Coronavirus MG</p>
+                <p>Recortes retirados de: <a href="https://coronavirus.saude.mg.gov.br/blog/331-vacinacao-covid-19-janssen">Coronavirus MG</a></p>
         </article>
       </div>
 </body>
