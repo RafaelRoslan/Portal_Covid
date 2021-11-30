@@ -2,7 +2,8 @@
 @charset "UTF-8";
 
 .var_alinha img {
-    text-align: center;
+    float: left;
+
     max-width:200px;
     max-height:150px;
     width: auto;
@@ -10,9 +11,21 @@
    
 }
 
-
-.var_alinha p {
-    text-align: center ;
-    text-justify: auto;
+h2{
+    text-align: center;
+    padding: 2% 5% 2% 5%;
 }
 
+
+.texto p{
+    text-align: left;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 0 0 0 2%;
+
+}
+
+    
+    
+    

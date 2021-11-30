@@ -6,6 +6,8 @@
 <?php include_once('includes/var_nav.php'); ?>
     <article class="col-6 offset-1">
       <h1> Entenda como surgem as variantes dos vírus e por que, na pandemia de Covid, a Delta preocupa. </h1>
+    
+    <div class="texto">
         <p> A variante Delta, que surgiu na Índia, e uma subvariante, a Delta Plus, parecem ser muito mais transmissíveis que as outras variantes conhecidas, além de mais resistentes aos nossos anticorpos.</p>
         <p> Na pandemia de Covid, o mais novo problema se chama variante Delta. Ela surgiu na Índia e está ligada à explosão de casos por lá, em abril, com mais de 4,5 mil mortes diárias e o colapso total do sistema de saúde.</p>
         <p> A variante e uma subvariante dela, a Delta Plus, parecem ser muito mais transmissíveis que as outras variantes conhecidas, além de mais resistentes aos nossos anticorpos. "Pode ser mais agressiva também. Levar a casos mais graves, de uma maneira mais rápida. E não havendo atendimento de saúde adequado, ela leva um aumento do número de óbitos", afirma o virologista Fernando Spilki.</p>
@@ -14,7 +16,7 @@
         <p> Para entender como surge uma variante, vamos lembrar que os vírus são bem primitivos --basicamente, um material genético, que pode ser RNA ou DNA, com uma "capinha" de proteína. O novo coronavírus é de RNA.</p>
         <p> Os vírus invadem as nossas células para se multiplicar. Só que, às vezes, na hora dessa multiplicação, ao acaso, acontecem erros. Muda uma ou outra letra no RNA. E isso pode provocar mudanças nas proteínas que o vírus fabrica. Essas mudanças são as chamadas mutações. E os vírus que contêm essas mutações são as variantes.</p>
         <p> A maioria das mutações não tem consequência. Mas, quando uma mutação traz uma vantagem pro vírus - por exemplo, ele fica mais poderoso pra invadir nossas células -, aí ela tende e se manter e se multiplicar, tomando conta do terreno que antes era de variantes menos "poderosas".</p>
-             
+      </div>    
       
       </article>
 
