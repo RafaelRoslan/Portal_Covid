@@ -2,23 +2,46 @@
 
 <!-- inicio do conteudo -->
 
-    <div class="row">
-    <article class="col-6 offset-1">
-      <h2>TEXTO EXEMPLO</h2>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
+<main class="container">
+  <article class="row mt-5 justify-content-evenly">
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-1  text-center">
+        <h1>Portal Covid</h1>
+        <h3>Portal informativo sobre o Covid-19</h3>
+      </div>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 align-items-center ">
+        <h1 class="display-4 text-center">LOGO</h1>
+      </div>
+  </article>
+</main>
 
-    </article>
+<section class="row mt-5 justify-content-evenly bg-secondary bg-opacity-25">
 
-    <aside class="col-3 offset-1">
-      <h3>TEXTO EXEMPLO</h3>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-
-    </aside>
+  <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
+    <div class="card card-body">
+      <p class="card-text">Casos(Brasil)</p>
+      <p class="card-text">16,9 mi</p>
+      <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+    </div>
   </div>
 
+  <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
+    <div class="card card-body">
+      <p class="card-text">Casos(Brasil)</p>
+      <p class="card-text">16,9 mi</p>
+      <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+    </div>
+  </div>
 
-  <!-- fim do conteudo -->
-  <?php include_once('includes/footer.php'); ?> 
+  <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
+    <div class="card card-body">
+      <p class="card-text">Casos(Brasil)</p>
+      <p class="card-text">16,9 mi</p>
+      <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+    </div>
+  </div>
+
+</section>
+
+
+<!-- fim do conteudo -->
+<?php include_once('includes/footer.php'); ?>
