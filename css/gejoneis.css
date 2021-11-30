@@ -1,10 +1,50 @@
 @charset "UTF-8";
+/* CLASSE OK */
 
+.paleta1 {
+    background-color: #8FCACA;
+}
+
+.paleta2 {
+    background-color: #5e8888;
+}
+
+
+
+
+
+
+
+
+
+/* FIM CLASSE OK */
 
 
 
 /* PARTE ANDERSON  */
 
+/* .cardaltura {
+    height: 50rem;
+}
+
+.cardaltura2 {
+    height: 40rem;
+} */
+
+
+
+
+/* ul li a {
+    : white;
+} */
+
+.botao_cor {
+    background-color: #8FCACA;
+}
+
+.testcor {
+    color: white; 
+}
 
 .caixaimg {
     object-fit: cover;
@@ -31,10 +71,6 @@
 
 .tamanhofonte {
     font-size: 24px;
-}
-
-.cor {
-    background-color: #C7F9E2;
 }
 
 
