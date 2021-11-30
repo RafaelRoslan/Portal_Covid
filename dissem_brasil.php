@@ -2,11 +2,14 @@
 <!-- inicio do conteudo -->
 <main class="container text-justify">
 
+<article class="mt-2 mb-4">
+    <h2 class="text-center">Disseminação</h2>
+</article>
 
     <?php include_once('includes/dissem_nav.php'); ?>
 
     <div class="row mt-4">
-        <article class="col-10 col-sm-12 col-md-12 col-lg-6 offset-1">
+        <article class="col-10 col-sm-12 col-md-12 col-lg-5 offset-1">
             <h2 class="text-center">Disseminação do covid no Brasil</h2>
             <p>O Brasil é o único país que, com população superior a 100 milhões, possui um sistema de saúde universal,
                 integral e gratuito. Apesar dos cortes no orçamento da saúde, esperava-se que o sistema de saúde do
@@ -36,7 +39,7 @@
             </p>
         </article>
 
-        <aside class="col-4 offset-1">
+        <aside class="col-6 col-sm-12 col-md-12 col-lg-5 offset-1">
             <table class="table">
                 <thead>
                     <tr>

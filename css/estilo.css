@@ -17,3 +17,11 @@
 .sublinhado a:hover{
   text-decoration-line: underline;
 }
+
+.colorhover {
+    background-color: rgb(24, 119, 87);
+}
+
+.fontetexto{
+  color: white;
+}

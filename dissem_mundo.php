@@ -3,7 +3,9 @@
 
 <main class="container text-justify">
 
-
+<article class="mt-2 mb-4">
+  <h2 class="text-center">Disseminação</h2>
+</article>
   <?php include_once('includes/dissem_nav.php'); ?>
   
   <div class="row py-4 centralizar">
