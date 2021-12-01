@@ -53,128 +53,164 @@
                     <tr>
                         <th scope="row">1</th>
                         <td colspan="3">São Paulo</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <td>4,44 mi</td>
+                        <td>154 mil</td>
                     </tr>
                     <tr>
                         <th scope="row">2</th>
                         <td colspan="3">Minas Gerais</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <td>2,21 mi</td>
+                        <td>56.164</td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
                         <td colspan="3">Paraná</td>
-                        <td>@twitter</td>
-                        <td>@twitter</td>
+                        <td>158 mi</td>
+                        <td>40.785</td>
                     </tr>
                     <tr>
                         <th scope="row">4</th>
                         <td colspan="3">Rio grande do Sul</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <td>1,49 mi</td>
+                        <td>36.083</td>
                     </tr>
                     <tr>
                         <th scope="row">5</th>
                         <td colspan="3">Rio de Janeiro</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <td>1,34 mi</td>
+                        <td>69.027</td>
                     </tr>
                     <tr>
                         <th scope="row">6</th>
                         <td colspan="3">Bahia</td>
-                        <td>@twitter</td>
-                        <td>@twitter</td>
+                        <td>1,26 mi</td>
+                        <td>27.297</td>
                     </tr>
                     <tr>
                         <th scope="row">7</th>
                         <td colspan="3">Santa Catarina</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <td>1,23 mi</td>
+                        <td>19.983</td>
                     </tr>
                     <tr>
                         <th scope="row">8</th>
                         <td colspan="3">Ceará</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <td>950 mil</td>
+                        <td> 24.624</td>
                     </tr>
                     <tr>
                         <th scope="row">9</th>
                         <td colspan="3">Goiás</td>
-                        <td>@twitter</td>
-                        <td>@twitter</td>
+                        <td>935 mil</td>
+                        <td>24.509</td>
                     </tr>
                     <tr>
                         <th scope="row">10</th>
                         <td colspan="3">Pernanbuco</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <td>640 mil</td>
+                        <td>20.235</td>
                     </tr>
                     <tr>
                         <th scope="row">11</th>
                         <td colspan="3">Espírito Santo</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <td>620 mil</td>
+                        <td>13.169</td>
                     </tr>
                     <tr>
                         <th scope="row">12</th>
                         <td colspan="3">Pará</td>
-                        <td>@twitter</td>
-                        <td>@twitter</td>
+                        <td>608 mil</td>
+                        <td>16.888</td>
                     </tr>
                     <tr>
                         <th scope="row">13</th>
                         <td colspan="3">Mato Grosso</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <td>549 mil</td>
+                        <td>13.747</td>
                     </tr>
                     <tr>
                         <th scope="row">14</th>
                         <td colspan="3">Distrito federal</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <td>518 mil</td>
+                        <td>11.035</td>
                     </tr>
                     <tr>
                         <th scope="row">15</th>
                         <td colspan="3">Paraíba</td>
-                        <td>@twitter</td>
-                        <td>@twitter</td>
+                        <td>461 mil</td>
+                        <td>9.528</td>
                     </tr>
                     <tr>
                         <th scope="row">16</th>
                         <td colspan="3">Amazonas</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <td>430 mil</td>
+                        <td>13.801</td>
                     </tr>
                     <tr>
                         <th scope="row">17</th>
                         <td colspan="3">Rio Grande do Norte</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <td>381 mil</td>
+                        <td>7.492</td>
                     </tr>
                     <tr>
                         <th scope="row">18</th>
                         <td colspan="3">Mato Grosso do Sul</td>
-                        <td>@twitter</td>
-                        <td>@twitter</td>
+                        <td>379 mil</td>
+                        <td>9.681</td>
                     </tr>
                     <tr>
                         <th scope="row">19</th>
                         <td colspan="3">Maranhão</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <td>365 mil</td>
+                        <td>10.289</td>
                     </tr>
                     <tr>
                         <th scope="row">20</th>
                         <td colspan="3">Piauí</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <td>331 mil</td>
+                        <td>7.185</td>
                     </tr>
                     <tr>
                         <th scope="row">21</th>
                         <td colspan="3">Sergipe</td>
-                        <td>@twitter</td>
-                        <td>@twitter</td>
+                        <td>278 mil</td>
+                        <td>6.043</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">22</th>
+                        <td colspan="3">Rondônia</td>
+                        <td>277 mil</td>
+                        <td>6.639</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">23</th>
+                        <td colspan="3">Alagoas</td>
+                        <td>241 mil</td>
+                        <td>6.350</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">24</th>
+                        <td colspan="3">Tocantins</td>
+                        <td>232 mil</td>
+                        <td>3.917</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">25</th>
+                        <td colspan="3">Roraima</td>
+                        <td>128 mil</td>
+                        <td>2.050</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">26</th>
+                        <td colspan="3">Amapá</td>
+                        <td>125 mil</td>
+                        <td>2.003</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">27</th>
+                        <td colspan="3">Acre</td>
+                        <td>60.069</td>
+                        <td>1.047</td>
                     </tr>
                     
                 </tbody>
