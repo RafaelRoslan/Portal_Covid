@@ -3,17 +3,18 @@
 <!-- inicio do conteudo -->
 
 
-<main>
-    <div class="row">
-        <section class="col-8 col-sm-12 col-md-8 col-lg-8 offset-2">
-            <img class="ser" src="imagens/seringa.png" alt="Desenho de seringa">
+<main class="container text-justify">
+
+    <div class="row justify-content-evenly">
+        <section class="col-9 col-sm-10 col-md-8 col-lg-9 offset-4">
+            <img class="ser" src="imagens/servirus.png" alt="Desenho de seringa com vírus.">
         </section>
-        <nav class="col-10 col-sm-10 col-md-10 col-lg-10 offset-1">
-            <?php include_once('includes/nav_center.php'); ?>
-        </nav>
+        
+        <?php include_once('includes/vac_nav.php'); ?>
+        
     </div>
-    <div class="row">
-        <article class="col-8 col-sm-12 col-md-8 col-lg-3 offset-2">
+    <div class="row justify-content-evenly">
+        <article class="col-8 col-sm-11 col-md-6 col-lg-7">
             <h2>O que são as vacinas?</h2>
 
             <p>As vacinas são um metodo de prevenção contra doenças, que ajudam nosso sistema imunologico a se preparar e se proteger contra futuros ataques. As vacinas produzidas durante a pandemia da COVID-19, utilizam diferentes metodos que trabalham em nosso organismo, para desenvolver barreiras, fazendo com que os sintomas da doença, caso contraída, sejam menores e não agressivos. As vacinas nos protegem de forma segura e eficaz e permitem que nosso sistema imunológico esteja preparado para combater determinadas infecções, caso ocorram.</p>
@@ -35,12 +36,12 @@
         </article>
 
 
-        <aside class="col-8 col-sm-12 col-md-8 col-lg-3 offset-2">
+        <aside class="col-8 col-sm-12 col-md-4 col-lg-3 ">
             <h3>Noticias</h3>
             <img class="vac" src="imagens/vacina.jpg" alt="Imagem com ampolas das vacinas contra COVID-19.">
             <a class="not1" href= "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2021/11/27/vacinacao-contra-a-covid-mais-de-62percent-da-populacao-esta-totalmente-imunizada.ghtml">Vacinação contra a Covid: mais de 62% da população está totalmente imunizada.</a>
             <p>No total, 132.586.608 pessoas tomaram a segunda dose ou a dose única de vacina, o equivalente a 62,15% da população.</p>
-            <img class="vac" src="imagens/noticia2.jpeg" alt="Imagem com ampolas das vacinas contra COVID-19.">
+            <img class="vac" src="imagens/noticia.jpeg" alt="Imagem com ampolas das vacinas contra COVID-19.">
             <a class="not1" href= "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2021/11/27/vacinacao-contra-a-covid-mais-de-62percent-da-populacao-esta-totalmente-imunizada.ghtml">Árvore de Natal feita com frascos de vacinas contra Covid homenageia profissionais da saúde em MS.</a>
             <p>Com mais de 3 mil frascos, a ideia é homenagear os profissionais que trabalharam na linha de frente do combate a pandemia e conscientizar a população sobre a importância da vacinação.</p>
         </aside>
