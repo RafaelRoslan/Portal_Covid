@@ -12,18 +12,24 @@ nav{
 .vac{
     width: 100%;
 }
+.jan{
+    width: 100%;
+}
 .not1{
-    font-size: 25px;
+    font-size: 20px;
     text-decoration: none;
     color: black;
 }
 .not1:hover, .active {
-    color: #ed9aa2 !important;
+    color: #ed9aa2;
 }
 .recort{
     text-decoration: none;
     color: black;
 }
 .recort:hover, .active {
-    color: #ed9aa2 !important;
+    color: #ed9aa2;
+}
+.caramba{
+    background-color: pink;
 }

@@ -1,18 +1,19 @@
 <?php include_once('includes/header.php'); ?>
 <link rel="stylesheet" type="text/css" href="css/vacina.css">
-<link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- inicio do conteudo -->
-<body>
-      <div class="row">
-            <section class="col-6 offset-3">
+
+<main class="container text-justify">
+
+      <div class="row container text-justify">
+            <section class="col-9 col-sm-9 col-md-8 col-lg-9 offset-4">
                   <img class="ser" src="imagens/coronavac.jpg" alt="Ampola de vacina com seringa a frente do simbolo do Butantan">
             </section>
             <nav>
-                  <?php include_once('includes/nav_center.php'); ?>
+                  <?php include_once('includes/vac_nav.php'); ?>
             </nav>
       </div>
-      <div class="row">
-             <article class="col-10 offset-1">
+      <div class="row container text-justify">
+             <article class="col-12 col-sm-12 col-md-12 col-lg-12">
                 <h4>Coronavac</h4>
 
                     <p>Vacina criada com uma tecnologia molecular, assim como as vacinas da gripe, poliomielite, hepatite e meningite, é feita por um vírus inativo ou vírus "morto", onde apenas a parte responsavel pelo reconhecimento do vírus é injetada para que o nosso organismo crie a imunidade contra ele, não permitindo que se multiplique e ataque o organismo.</p>
@@ -23,7 +24,12 @@
                     <p>Recortes retirados de: <a href="https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford">Coronavirus MG</a></p>
             </article>
       </div>
-</body>
+      <div class="row container text-justify">
+            <article class="col-12 col-sm-12 col-md-12 col-lg-12">
+                  <img class="vac" src="imagens/coronaimg.jpg" alt="Imagem com ampolas das vacinas contra COVID-19.">
+            </article>
+      </div>
+</main>
 
 <!-- fim do conteudo -->
 <?php include_once('includes/footer.php'); ?> 
