@@ -1,5 +1,24 @@
 @charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+
+
+
+/* FONTE */
+
+.fontemukta {
+    font-family: 'Mukta', sans-serif;
+}
+
+.fontenegrito {
+    font-weight: bold;
+}
+
+/*FIM FONTE */
+
 /* CLASSE OK */
+
+/* PALETA DE CORES */
 
 .paleta1 {
     background-color: #8FCACA;
@@ -9,9 +28,22 @@
     background-color: #5e8888;
 }
 
+/* FIM PALETA DE CORES */
+
+
+
 .corcard {
     background-color: #f0f0f0;
+    height: 100%
 }
+
+.cardajuste {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;    
+    height: 100%;
+}
+
 
 .caixapo {
     object-position: 20%;
@@ -22,9 +54,6 @@
     height: 400px;
     }   
 
-
-
-
 /* FIM CLASSE OK */
 
 
@@ -33,13 +62,23 @@
 
 /* TESTE */
 
+.corfonte {
+    color: black; 
+}
+
 
 /* TESTE */
 
 
 .botao_cor {
     background-color: #8FCACA;
+
 }
+
+.testegi {
+    background-color: green;
+}
+
 
 
 /* PARTE ANDERSON */
