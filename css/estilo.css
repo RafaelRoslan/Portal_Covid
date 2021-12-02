@@ -25,3 +25,14 @@
 .fontetexto{
   color: white;
 }
+
+.batata{
+  display: flex ;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.frango{
+  width: 100%;
+  background-color: palevioletred;
+}

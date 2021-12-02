@@ -1,22 +1,22 @@
 <?php include_once('includes/header.php'); ?>
 <!-- inicio do conteudo -->
 
-<div class="row">
-    <article class="col-6 offset-1">
-      <h2>TEXTO EXEMPLO</h2>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
+<main class="container text-justify">
+    <article class="col-10 col-sm-10 col-md-10 col-lg-10 offset-1">
+
+      <h2 class="text-center my-4">OS “ANBANDONADOS”</h2>
+      <p>Esse foi o título nos dados, com esse pequeno erro gramatical, seja  isso apenas um mero erro ao digitar ou algo proposital, essa palavra errada representa bem o que é um pequeno grupo esquecido que outrora era conhecido como “Grupo F”. Agora no segundo semestre do curso de Sistemas para Internet da Faculdade de Tecnologia de São Roque, a FATEC-SR, esse grupo deu início ao segundo projeto, agora com o tema: COVID-19.</p>
+      <p>Ainda no início do semestre, um fato em comum adicionou dois novo integrantes ao grupo, vindo de semestres diferentes por razões diferentes. Eles estavam igualmente abandonados. Com o grupo maior, irrompeu uma esperança acerca de um semestre mais plácido, porém algo inesperado sobreveio, o grupo possuía somente uma aula em comum, fazendo a comunicação e avanço desse projeto se dificultar. Somado a isso, a sombra de ser o último grupo, ainda abandonados e esquecidos por alguns professores, fez o grupo caminhar desordenadamente para a data final da entrega do projeto.</p>
+      <p>Contudo, nosso grupo persistiu, ainda que as vezes isolados e abandonados, nossa comunicação e organização se aprimoraram, o que fez bons laços e ótimas piadas surgirem. Cada integrante se mostrou valoroso, e mesmo em meio as dúvidas daqueles que nos guiam, nosso pequeno grupo menosprezado, ainda se mantem firme, tentando mostrar que podemos terminar o projeto</p>
 
     </article>
 
     <aside class="col-3 offset-1">
-      <h3>TEXTO EXEMPLO</h3>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
-      <p>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui."</p>
+    
+
 
     </aside>
-  </div>
+</main>
 
 <!-- fim do conteudo -->
 <?php include_once('includes/footer.php'); ?> 

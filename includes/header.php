@@ -22,14 +22,16 @@
 <body>
   <header>
     <nav class="navbar navbar-expand-lg navbar-light paleta1">
-      <div class="container-fluid">
+      <div class="container-fluid batata">
         
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#teste"
           aria-controls="teste" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <a href="index.php"><img src="imagens/target.svg" alt="icone"></a>
-        <a class="navbar-brand" href="index.php">Portal Covid</a>
+        <div class="frango">
+          <a href="index.php"><img src="imagens/target.svg" alt="icone"></a>
+          <a class="navbar-brand" href="index.php">Portal Covid</a>
+        </div>
         <div class="collapse navbar-collapse sublinhado" id="teste">
           
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">

@@ -22,7 +22,7 @@
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Disseminação</a></li>
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Quem Somos</a></li>
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Contato</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Termos de uso</a></li>
+        <li class="nav-item mb-2"><a href="termodeuso.php" class="nav-link p-0 text-muted">Termos de uso</a></li>
         
       </ul>
     </section>
