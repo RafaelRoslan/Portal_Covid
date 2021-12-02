@@ -8,10 +8,8 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
-
   <link rel="stylesheet" href="css/estilo.css">
   <link rel="stylesheet" href="css/gejoneis.css">
-
 
   <title>Portal Covid</title>
 </head>
@@ -19,7 +17,7 @@
 
 
 
-<body>
+<body class="fontemukta">
   <header>
     <nav class="navbar navbar-expand-lg navbar-light paleta1">
       <div class="container-fluid">
