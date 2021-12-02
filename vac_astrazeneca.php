@@ -9,7 +9,7 @@
                   <img class="ser" src="imagens/astra.jpg" alt="Ampola de vacina com seringa a frente do simbolo da Astrazeneca">
             </section>
             
-      <?php include_once('includes/vac_nav.php'); ?>
+            <?php include_once('includes/vac_nav.php'); ?>
 
       </div>
                    
