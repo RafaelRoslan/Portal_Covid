@@ -4,17 +4,17 @@
 <main class="container py-5">
 
 
-<h1>Usar máscara de proteção, manter os cuidados básicos de higiene e evitar aglomerações, são algumas forma de se proteger do Covid-19.</h1>
-<br>
-<h4> COMO SE PROTEGER: </h4>
+<h1 class="fontenegrito text-center pb-5">Usar máscara de proteção, manter os cuidados básicos de higiene e evitar aglomerações, são algumas forma de se proteger do Covid-19.</h1>
 
-  <div class= "row row-cols-1 row-cols-md-2 g-4">
+<h4 class="fontenegrito"> COMO SE PROTEGER: </h4>
+
+  <div class= "row row-cols-1 row-cols-md-2 g-4 cardajuste">
 
     <div class="col">
         <div class="card corcard">
           <img src="imagens/mascara" class="card-img-top caixaimg " alt="...">
           <div class="card-body">
-            <h5 class="card-title">USO DA MÁSCARA</h5>
+            <h5 class="card-title fontenegrito">USO DA MÁSCARA</h5>
                                
             <section>
               <p>O uso da máscara é fundamental para combater o Covid-19.</p>
@@ -33,7 +33,7 @@
         <div class="card corcard">
           <img src="imagens/2" class="card-img-top caixaimg" alt="...">
           <div class="card-body">
-            <h5 class="card-title">HIGIENENIZAÇÃO</h5>
+            <h5 class="card-title fontenegrito">HIGIENENIZAÇÃO</h5>
             
             <section>
               <p>Medidas básicas na rotina diária, como lavar as mãos são fundamentais para a redução do contágio.</p>
@@ -47,9 +47,9 @@
 
     <div class="col">
         <div class="card corcard ">
-          <img src="imagens/distanciamento" class="card-img-top caixaimg caixapo" alt="...">
+          <img src="imagens/distanciamento" class="card-img-top caixaimg" alt="...">
           <div class="card-body">
-            <h5 class="card-title">DISTANCIAMENTO SOCIAL</h5>
+            <h5 class="card-title fontenegrito">DISTANCIAMENTO SOCIAL</h5>
 
             
             <section>
@@ -66,7 +66,7 @@
         <div class="card corcard">
           <img src="imagens/3" class="card-img-top caixaimg" alt="...">
           <div class="card-body">
-            <h5 class="card-title">CUIDADOS NO AMBIENTE DE TRABALHO</h5>
+            <h5 class="card-title fontenegrito">CUIDADOS NO AMBIENTE DE TRABALHO</h5>
             
             <section>
               <p>No ambiente de trabalho é importante estar atento à higiene. O recomendado é que as empresas e organizações disponibilizem recursos para a higienização das mãos nos locais de trabalho, incluindo água, sabonete líquido, toalha de papel descartável e lixeira, com abertura que não demande contato manual, ou sanitizante adequado para as mãos, como álcool a 70%.</p>
@@ -81,7 +81,7 @@
         <div class="card corcard">
           <img src="imagens/tosse" class="card-img-top caixaimg" alt="...">
           <div class="card-body">
-            <h5 class="card-title">CUBRA TOSSES E ESPIRROS</h5>
+            <h5 class="card-title fontenegrito">CUBRA TOSSES E ESPIRROS</h5>
 
             <section>
               <p>Se você não estiver de máscaras, lembre-se de sempre cobrir a boca e o nariz com um lenço de papel quando tossir ou espirrar ou usar a parte interna do cotovelo e não cuspir.</p>
@@ -97,7 +97,7 @@
           <div class="card corcard">
             <img src="imagens/4" class="card-img-top caixaimg" alt="...">
             <div class="card-body">
-              <h5 class="card-title">CUIDADOS COMPLEMENTARES</h5>
+              <h5 class="card-title fontenegrito">CUIDADOS COMPLEMENTARES</h5>
 
               
               <section>
