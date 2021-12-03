@@ -14,6 +14,10 @@
     font-weight: bold;
 }
 
+p {
+    font-family: 'Mukta', sans-serif;
+}
+
 /*FIM FONTE */
 
 /* CLASSE OK */
@@ -33,7 +37,7 @@
 
 
 .corcard {
-    background-color: #f0f0f0;
+    background-color: #e0dfdf;
     height: 100%
 }
 
@@ -63,11 +67,27 @@
 /* TESTE */
 
 .corfonte {
-    color: black; 
+    color: black !important ; 
 }
 
+/* .cardcontato {
+    display: flex;
+    width:50%; 
+} */
 
-/* TESTE */
+/* .testecontato {
+    width: 80%;
+    height: 80%;
+} */
+
+
+/* .footercorteste {
+    max-width: 100%;
+    padding: 1em 0;
+    background: none repeat scroll 0 0 #0e4097;
+} */
+
+/* FIM TESTE */
 
 
 .botao_cor {
