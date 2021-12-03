@@ -3,8 +3,9 @@
 <div class="paleta2 corfonte">
 <footer class="container py-5 mt-5">
   <div class="row offset-1 sublinhado centralizar">
+    <h5 class="fontenegrito">Mapa do Site</h5>
     <section class="col-10 col-sm-12 col-md-12 col-lg-3 text-justify ">
-      <h5 class="fontenegrito">Mapa do Site</h5>
+      
 
       <ul class="nav flex-column">
         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted corfonte">Home</a></li>

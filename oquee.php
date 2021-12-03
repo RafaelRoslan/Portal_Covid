@@ -1,9 +1,9 @@
 <?php include_once('includes/header.php'); ?>
 <!-- inicio do conteudo -->
-<main class="container">
+<main class="container text-justify">
 
-  <article class="row mt-5 justify-content-evenly">
-    <div class="col-12 col-sm-10 col-md-10 col-lg-10 text-justify ">
+  <article class="row justify-content-evenly ">
+    <div class="col-10 col-sm-10 col-md-10 col-lg-10 ">
       <h2 class="text-center">O que é Covid 19</h2>
       <p>A Covid-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2, potencialmente grave, de
         elevada transmissibilidade e de distribuição global.</p>

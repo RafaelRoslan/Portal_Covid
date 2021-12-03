@@ -19,7 +19,7 @@
 
     <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
       <div class="card card-body">
-        <p class="card-text">Casos(Brasil)</p>
+        <p class="card-text">Casos&#40;Brasil&#41;</p>
         <p class="card-text">16,9 mi</p>
         <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
       </div>
@@ -27,7 +27,7 @@
 
     <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
       <div class="card card-body">
-        <p class="card-text">Casos(Brasil)</p>
+        <p class="card-text">Casos&#40;Brasil&#41;</p>
         <p class="card-text">16,9 mi</p>
         <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
       </div>
@@ -35,13 +35,56 @@
 
     <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
       <div class="card card-body">
-        <p class="card-text">Casos(Brasil)</p>
+        <p class="card-text">Casos&#40;Brasil&#41;</p>
         <p class="card-text">16,9 mi</p>
         <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
       </div>
     </div>
 
   </section>
+
+  <article class="container my-5 ">
+
+    <h1>Últimas Notícias</h1>
+    <div class="row justify-content-center align-items-center">
+      <section class="card m-2 cardlargura2">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        </div>
+      </section>
+
+      <section class="card m-2 cardlargura2">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        </div>
+      </section>
+
+      <section class="card m-2 cardlargura2">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        </div>
+      </section>
+    </div>
+
+    <div class="row justify-content-center align-items-center">
+      <section class="card m-2 cardlargura2">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        </div>
+      </section>
+    </div>
+
+  </article>
+
+
 </main>
 
 <!-- fim do conteudo -->
