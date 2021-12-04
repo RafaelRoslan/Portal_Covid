@@ -19,7 +19,7 @@
 
     </div>
     <div class="row justify-content-center mt-5">
-        <article class="col-10 col-sm-10 col-md-7 col-lg-6 ">
+        <article class="col-10 col-sm-10 col-md-6 ">
             <h1>O que são as vacinas?</h1>
 
             <p>As vacinas são um metodo de prevenção contra doenças, que ajudam nosso sistema imunologico a se preparar
@@ -67,7 +67,7 @@
         </article>
         
 
-        <aside class="col-10 col-sm-10 col-md-4 col-lg-4 bg-dark bg-opacity-25 rounded-3">
+        <aside class="col-10 col-sm-10 col-md-4 bg-dark bg-opacity-25 rounded-3">
             <h3>Noticias Relacionadas</h3>
             <section class="py-4">
                 <img class="vac rounded-3" src="imagens/vacina.jpg"

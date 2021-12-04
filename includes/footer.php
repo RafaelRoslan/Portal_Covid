@@ -1,11 +1,11 @@
 <div class="paleta2 corfonte">
   <footer class="container pt-5 mt-5">
     <div class="row sublinhado justify-content-evenly">
-      <div class="col-10 col-sm-8 col-md-8 col-lg-5 mb-4">
+      <div class="col-10 col-sm-12 col-md-12 col-lg-5 mb-4">
         <div class="row justify-content-evenly ">
           <h5 class="fontenegrito text-center mb-2">Mapa do Site</h5>
 
-          <section class="col-5 col-sm-12 col-md-12 col-lg-3 ">
+          <section class="col-10 col-sm-10 col-md-4 ">
 
             <ul class="nav flex-column">
               <li class="nav-item mb-2"><a href="index.php" class="nav-link p-0 text-muted corfonte">Home</a></li>
@@ -15,20 +15,30 @@
               <li class="nav-item mb-2"><a href="var_alfa.php" class="nav-link p-0 text-muted corfonte">Variante - Alfa</a></li>
               <li class="nav-item mb-2"><a href="var_beta.php" class="nav-link p-0 text-muted corfonte">Variante - Beta</a></li>
               <li class="nav-item mb-2"><a href="var_gama.php" class="nav-link p-0 text-muted corfonte">Variante - Gama</a></li>
-              <li class="nav-item mb-2"><a href="var_delta.php" class="nav-link p-0 text-muted corfonte">Variante - Delta</a></li>
-              <li class="nav-item mb-2"><a href="var_omicron.php" class="nav-link p-0 text-muted corfonte">Variante - Ômicron</a></li>
-              <li class="nav-item mb-2"><a href="prevencao.php" class="nav-link p-0 text-muted corfonte">Prevenção</a></li>
 
             </ul>
           </section>
 
-          <section class="col-5 col-sm-10 col-md-12 col-lg-3 ">
-            <ul class="nav flex-column">
 
+          <section class="col-10 col-sm-10 col-md-4 ">
+
+            <ul class="nav flex-column">
+              <li class="nav-item mb-2"><a href="var_delta.php" class="nav-link p-0 text-muted corfonte">Variante - Delta</a></li>
+              <li class="nav-item mb-2"><a href="var_omicron.php" class="nav-link p-0 text-muted corfonte">Variante - Ômicron</a></li>
+              <li class="nav-item mb-2"><a href="prevencao.php" class="nav-link p-0 text-muted corfonte">Prevenção</a></li>
               <li class="nav-item mb-2"><a href="vacina.php" class="nav-link p-0 text-muted corfonte">Vacinas</a></li>
               <li class="nav-item mb-2"><a href="vac_pfizer.php" class="nav-link p-0 text-muted corfonte">Vacina - Pfizer</a></li>
               <li class="nav-item mb-2"><a href="vac_coronavac.php" class="nav-link p-0 text-muted corfonte">Vacina - Coronavac</a></li>
               <li class="nav-item mb-2"><a href="vac_astrazeneca.php" class="nav-link p-0 text-muted corfonte">Vacina - AstraZeneca</a></li>
+
+            </ul>
+          </section>
+
+
+          <section class="col-10 col-sm-10 col-md-4 ">
+            <ul class="nav flex-column">
+
+              
               <li class="nav-item mb-2"><a href="vac_jansen.php" class="nav-link p-0 text-muted corfonte">Vacina - Johnson & Johnson</a></li>
               <li class="nav-item mb-2"><a href="disseminacao.php" class="nav-link p-0 text-muted corfonte">Disseminação</a></li>
               <li class="nav-item mb-2"><a href="quemsomos.php" class="nav-link p-0 text-muted corfonte">Quem Somos</a></li>

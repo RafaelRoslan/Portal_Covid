@@ -27,12 +27,7 @@
     <div class="col-10 col-sm-10 col-md-10 col-lg-10 ">
       <div class="row mb-3 justify-content-evenly align-items-center">
 
-        <aside class="col-12 col-sm-12 col-md-10 col-lg-7">
-          <img src="imagens/grafico_italia.png" class="imglargura px-2"
-            alt="graficos de casos registrados na Itália, desde a abril de 2020 até novembro de 2021.">
-        </aside>
-
-        <section class="col-12 col-sm-12 col-md-10 col-lg-5 bg-dark bg-opacity-25 rounded-3 p-3">
+      <section class="col-12 col-sm-12 col-md-12 col-lg-5 bg-dark bg-opacity-25 rounded-3 p-3 order-lg-1 mt-5 mt-lg-3">
           <h2 class="text-center mb-3">Itália</h2>
 
           <p>Em março de 2020, a Itália era o segundo país com o maior número de casos, ficando somente atrás da China.
@@ -53,13 +48,20 @@
             que
             122.470 pessoas morreram desde o início da pandemia.</p>
         </section>
+
+        <aside class="col-12 col-sm-12 col-md-12 col-lg-7 order-lg-0">
+          <img src="imagens/grafico_italia.png" class="imglargura px-2"
+            alt="graficos de casos registrados na Itália, desde a abril de 2020 até novembro de 2021.">
+        </aside>
+
+        
       </div>
     </div>
 
     <!--ESTADOS UNIDOS-->
     <div class="col-10 col-sm-10 col-md-10 col-lg-10 ">
       <div class="row mb-3 justify-content-evenly align-items-center">
-        <section class="col-12 col-sm-12 col-md-10 col-lg-5 bg-dark bg-opacity-25 rounded-3 p-3">
+        <section class="col-12 col-sm-12 col-md-12 col-lg-5 mt-5 mt-lg-3">
           <h2 class="text-center mb-3">Estados Unidos</h2>
           <p>O primeiro caso de Covid-19 foi registrado nos EUA em 21 de janeiro de 2020. No início de fevereiro do
             mesmo
@@ -92,7 +94,7 @@
 
     <!--CHINA-->
 
-    <article class="col-10 col-sm-10 col-md-10 col-lg-10">
+    <article class="col-10 col-sm-10 col-md-10 col-lg-10 bg-dark bg-opacity-25 rounded-3 p-3">
       <h2 class="text-center mb-3">China</h2>
 
       <p>O país teve uma resposta imediata após a identificação dos casos de Covid-19: Wuhan passou por um lockdown de

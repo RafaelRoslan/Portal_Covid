@@ -6,10 +6,10 @@
     <?php include_once('includes/var_nav.php'); ?>
 
 
-    <article class="col-10 col-sm-12 col-md-12 col-lg-8 mt-4">
+    <article class="col-10 col-sm-12 col-md-11 col-lg-8 mt-4">
       <h2>Variante Beta </h2>
       <div class="row justify-content-around align-items-center">
-        <section class="col-12 col-sm-12 col-md-12 col-lg-8">
+        <section class="col-12 col-sm-12 col-md-8 col-lg-8">
           <p> <b>Quem é:</b> A variante identificada em dezembro de 2020 na África do Sul.</p>
           <p> <b> Mutações:</b> Têm alterações em comum com a Alfa, com destaque para a N501Y. Ainda carrega outras
             duas, na ponta da espícula, que chamam atenção: K417N, com o mesmo efeito de estimular a ligação nas células
@@ -19,7 +19,7 @@
             ela é o escape da resposta imune, que pode elevar a possibilidade de reinfecção e prejudicar a ação das
             vacinas.</p>
         </section>
-        <section class="col-10 col-sm-12 col-md-12 col-lg-4">
+        <section class="col-10 col-sm-12 col-md-4 col-lg-4">
           <img class="imglargura py-2" src="imagens/corona laranja.png" alt="Imagem que ilustra uma versão cartunizada de um virus, na cor laranja">
         </section>
 

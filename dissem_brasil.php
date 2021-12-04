@@ -9,7 +9,7 @@
     <?php include_once('includes/dissem_nav.php'); ?>
 
     <div class="row mt-4  justify-content-evenly">
-        <article class="col-10 col-sm-12 col-md-12 col-lg-5 ">
+        <article class="col-10 col-sm-12 col-md-11 col-lg-5 ">
             <h2 class="text-center my-2">Disseminação do covid no Brasil</h2>
             <p>O Brasil é o único país que, com população superior a 100 milhões, possui um sistema de saúde universal,
                 integral e gratuito. Apesar dos cortes no orçamento da saúde, esperava-se que o sistema de saúde do
@@ -39,7 +39,7 @@
             </p>
         </article>
 
-        <aside class="col-6 col-sm-12 col-md-12 col-lg-6 mt-3">
+        <aside class="col-6 col-sm-12 col-md-11 col-lg-6 mt-3">
             <h3 class="text-center">Ocorrências por Estado</h3>
             <table class="table">
                 <thead>
