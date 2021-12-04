@@ -27,7 +27,7 @@
             <section class="col-8 col-sm-11 col-md-8 col-lg-10">
                   <p>As reações da vacina podem aparecer entre 1 e 2 dias após sua aplicação. Os sintomas mais comuns incluem dor, inchaço ou vermelhidão no local da aplicação, cansaço, calafrios, febre, nausea, vômito e dor no corpo. Dependendo do organismo do individuo, as reações podem não acontecer, não sendo algo certo de ocorrer com todos.</p>
 
-                  <p>Recortes retirados de: <a href="https://coronavirus.saude.mg.gov.br/blog/329-vacinacao-covid-19-pfizer-biontech">Coronavirus MG</a></p>
+                  <p>Recortes retirados de: <a class="recort" href="https://coronavirus.saude.mg.gov.br/blog/329-vacinacao-covid-19-pfizer-biontech">Coronavirus MG</a></p>
             </section>
       </div>
 </main>
