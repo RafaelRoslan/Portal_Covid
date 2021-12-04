@@ -9,7 +9,7 @@
     <article class="col-10 col-sm-12 col-md-12 col-lg-8 mt-4">
       <h2>Variante Beta </h2>
       <div class="row justify-content-around align-items-center">
-        <div class="col-12 col-sm-12 col-md-12 col-lg-8">
+        <section class="col-12 col-sm-12 col-md-12 col-lg-8">
           <p> <b>Quem é:</b> A variante identificada em dezembro de 2020 na África do Sul.</p>
           <p> <b> Mutações:</b> Têm alterações em comum com a Alfa, com destaque para a N501Y. Ainda carrega outras
             duas, na ponta da espícula, que chamam atenção: K417N, com o mesmo efeito de estimular a ligação nas células
@@ -18,7 +18,7 @@
             mortalidade em indivíduos já hospitalizados, fato ainda não confirmado. A principal preocupação em relação a
             ela é o escape da resposta imune, que pode elevar a possibilidade de reinfecção e prejudicar a ação das
             vacinas.</p>
-        </div>
+        </section>
         <section class="col-10 col-sm-12 col-md-12 col-lg-4">
           <img class="imglargura py-2" src="imagens/corona laranja.png" alt="Imagem que ilustra uma versão cartunizada de um virus, na cor laranja">
         </section>
@@ -31,6 +31,7 @@
       <p> <b>Situação epidemiológica:</b> Alcançou Estados Unidos, Canadá e outros 58 países. O primeiro caso
         brasileiro foi detectado em abril, graças à rede de vigilância genômica instalada no interior paulista,
         coordenada pelo Instituto Butantan.</p>
+        <p class="text-end"> Fonte:<a href="https://saude.abril.com.br/medicina/variantes-do-coronavirus-quem-sao-e-como-se-comportam/#:~:text=Beta%20(antiga%20B.&text=Muta%C3%A7%C3%B5es%3A%20T%C3%AAm%20altera%C3%A7%C3%B5es%20em%20comum,v%C3%ADrus%20a%20escapar%20dos%20anticorpos.">Veja Saúde</a></p>
 
     </article>
   </div>

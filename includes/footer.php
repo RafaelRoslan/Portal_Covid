@@ -12,6 +12,11 @@
               <li class="nav-item mb-2"><a href="oquee.php" class="nav-link p-0 text-muted corfonte">O que &eacute;</a></li>
               <li class="nav-item mb-2"><a href="consequencia.php" class="nav-link p-0 text-muted corfonte">Consequências</a></li>
               <li class="nav-item mb-2"><a href="variante.php" class="nav-link p-0 text-muted corfonte">Variantes</a></li>
+              <li class="nav-item mb-2"><a href="var_alfa.php" class="nav-link p-0 text-muted corfonte">Variante - Alfa</a></li>
+              <li class="nav-item mb-2"><a href="var_beta.php" class="nav-link p-0 text-muted corfonte">Variante - Beta</a></li>
+              <li class="nav-item mb-2"><a href="var_gama.php" class="nav-link p-0 text-muted corfonte">Variante - Gama</a></li>
+              <li class="nav-item mb-2"><a href="var_delta.php" class="nav-link p-0 text-muted corfonte">Variante - Delta</a></li>
+              <li class="nav-item mb-2"><a href="var_omicron.php" class="nav-link p-0 text-muted corfonte">Variante - Ômicron</a></li>
               <li class="nav-item mb-2"><a href="prevencao.php" class="nav-link p-0 text-muted corfonte">Prevenção</a></li>
 
             </ul>
@@ -21,7 +26,10 @@
             <ul class="nav flex-column">
 
               <li class="nav-item mb-2"><a href="vacina.php" class="nav-link p-0 text-muted corfonte">Vacinas</a></li>
-              <li class="nav-item mb-2"><a href="vac_pfizer.php" class="nav-link p-0 text-muted corfonte">Vacinas - pfizer</a></li>
+              <li class="nav-item mb-2"><a href="vac_pfizer.php" class="nav-link p-0 text-muted corfonte">Vacina - Pfizer</a></li>
+              <li class="nav-item mb-2"><a href="vac_coronavac.php" class="nav-link p-0 text-muted corfonte">Vacina - Coronavac</a></li>
+              <li class="nav-item mb-2"><a href="vac_astrazeneca.php" class="nav-link p-0 text-muted corfonte">Vacina - AstraZeneca</a></li>
+              <li class="nav-item mb-2"><a href="vac_jansen.php" class="nav-link p-0 text-muted corfonte">Vacina - Johnson & Johnson</a></li>
               <li class="nav-item mb-2"><a href="disseminacao.php" class="nav-link p-0 text-muted corfonte">Disseminação</a></li>
               <li class="nav-item mb-2"><a href="quemsomos.php" class="nav-link p-0 text-muted corfonte">Quem Somos</a></li>
               <li class="nav-item mb-2"><a href="contato.php" class="nav-link p-0 text-muted corfonte">Contato</a></li>

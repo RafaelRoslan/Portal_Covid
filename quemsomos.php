@@ -47,13 +47,14 @@
       <section class="card my-3 mx-2 bg-dark bg-opacity-25 cardlargura">
         <div class="row g-0">
           <div class="col-md-4">
-            <img src="..." class="img-fluid rounded-start" alt="...">
+            <img src="imagens/felipe.jpg" class="img-fluid rounded-start" alt="Foto do Felipe, um dos desenvolvedores do projeto Portal">
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h5 class="card-title">FELIPE GOES</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                content. This content is a little bit longer.</p>
+              <h5 class="card-title">FELIPE GÓES</h5>
+              <p class="card-text">Me Chamo Felipe, tive meu contato com T.I em 2013, quando trabalhei como técnico de manutenção de computadores,
+                 logo após cursei Informática para Internet na Etec-SR, onde tive minha primeira experiência com programação,
+                 agora estou cursando Sistemas para Internet na Fatec-SR. Atualmente buscando oportunidade na área.</p>
               <p class="card-text"><small class="text-muted">Comentário: "100% Giovana"</small></p>
             </div>
           </div>
