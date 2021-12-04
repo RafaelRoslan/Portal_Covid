@@ -50,6 +50,7 @@
       <p> As informações foram apresentadas pela diretora do Centro de Desenvolvimento Científico do Butantan, Sandra
         Vessoni, em evento realizado nesta segunda-feira (30/8) pelo ILP (Instituto do Legislativo Paulista) em parceria
         com a Fapesp (Fundação de Amparo à Pesquisa no Estado de São Paulo).</p>
+        <p class="text-end"> Fonte:<a href="https://g1.globo.com/fantastico/noticia/2021/06/28/entenda-como-surgem-as-variantes-dos-virus-e-por-que-na-pandemia-de-covid-a-delta-preocupa.ghtml">G1 Brasil</a></p>
 
       <!--<h4> O que as variantes nos dizem </h4> -->
     </section>

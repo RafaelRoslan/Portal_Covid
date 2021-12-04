@@ -23,7 +23,7 @@
                     <img class="imglargura py-2" src="imagens/corona roxo.png"
                         alt="Imagem que ilustra uma versão cartunizada de um virus, na cor roxo">
                 </section>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-8">
+                <section class="col-12 col-sm-12 col-md-12 col-lg-8">
 
                     <p> <b>Resposta às vacinas:</b> Estudos mostram redução importante na ação de anticorpos
                         neutralizantes com apenas uma dose das vacinas de Pfizer e AstraZeneca. Com duas doses, porém, a
@@ -34,7 +34,8 @@
                         devastadora segunda onda. Está sendo associada a um aumento de casos no Reino Unido, que já
                         estava em plena reabertura de comércios e serviços. No Brasil, foram confirmados casos no
                         Maranhão e no Paraná.</p>
-                </div>
+                        <p class="text-end"> Fonte:<a href="https://saude.abril.com.br/medicina/variantes-do-coronavirus-quem-sao-e-como-se-comportam/#:~:text=Beta%20(antiga%20B.&text=Muta%C3%A7%C3%B5es%3A%20T%C3%AAm%20altera%C3%A7%C3%B5es%20em%20comum,v%C3%ADrus%20a%20escapar%20dos%20anticorpos.">Veja Saúde</a></p>
+                </section>
             </div>
         </article>
     </div>
