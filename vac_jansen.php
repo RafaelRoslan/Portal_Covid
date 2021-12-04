@@ -23,7 +23,7 @@
                 
                 <p>A tecnologia biomolecular baseada no chamado “vetor viral”, que consiste na utilização de um vírus modificado para estimular o sistema imunológico a produzir anticorpos contra o novo coronavírus.Durante o processo de fabricação da vacina, uma espécie de vírus "enfraquecido", após ser modificado para não se multiplicar (tornando-o não replicante), carrega parte do material genético do SARS-CoV-2 responsável pela produção de uma proteína, chamada Spike, que auxilia o vírus da COVID-19 a invadir as células humanas.</p>
             
-                <p>Recortes retirados de: <a href="https://coronavirus.saude.mg.gov.br/blog/331-vacinacao-covid-19-janssen">Coronavirus MG</a></p>
+                <p>Recortes retirados de: <a class="recort" href="https://coronavirus.saude.mg.gov.br/blog/331-vacinacao-covid-19-janssen">Coronavirus MG</a></p>
                 <img class="jan" src="imagens/janssen.jpeg" alt="Ampola de vacina da Johnson e Johnson">
             </aside>
 
