@@ -32,9 +32,9 @@
   align-items: center;
 }
 
-.frango{
+.imglargura{
   width: 100%;
-  background-color: palevioletred;
+  height: auto;
 }
 
 .cardlargura{
@@ -43,4 +43,9 @@
 
 .cardlargura2{
   max-width: 300px !important;
+}
+
+.icones{
+  max-width: 24px !important;
+  height: auto !important; 
 }
