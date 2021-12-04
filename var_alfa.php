@@ -6,15 +6,15 @@
     <?php include_once('includes/var_nav.php'); ?>
 
 
-    <article class="col-10 col-sm-12 col-md-12 col-lg-8 mt-4">
+    <article class="col-10 col-sm-11 col-md-11 col-lg-8 mt-4">
       <h2>Variante Alfa</h2>
       <div class="row justify-content-around align-items-center">
-        <section class="col-10 col-sm-12 col-md-12 col-lg-4">
+        <section class="col-10 col-sm-12 col-md-4">
           <img class="imglargura py-2" src="imagens/corona azul.png"
             alt="Imagem que ilustra uma versão cartunizada de um virus, na cor azul">
         </section>
 
-        <section class="col-12 col-sm-12 col-md-12 col-lg-8">
+        <section class="col-12 col-sm-12 col-md-8">
           <p> <b>Quem é:</b> A primeira variante de preocupação, anteriormente chamada de B.1.1.7. Surgiu no Reino Unido
             em setembro de 2020. </p>
           <p> <b> Mutações:</b> São 22 ao todo, entre as que alteram ou não a estrutura do vírus. As principais estão na

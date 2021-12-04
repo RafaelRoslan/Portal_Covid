@@ -5,7 +5,7 @@
     <div class="row py-4 justify-content-evenly ">
         <?php include_once('includes/var_nav.php'); ?>
 
-        <article class="col-10 col-sm-12 col-md-12 col-lg-8 mt-4">
+        <article class="col-10 col-sm-12 col-md-11 col-lg-8 mt-4">
             <h2>Variante Gama</h2>
             <p> <b>Quem é:</b> Trata-se da variante descoberta no fim do ano passado em japoneses que voltavam do
                 Amazonas.</p>
@@ -26,7 +26,7 @@
 
             <div class="row justify-content-around align-items-center">
 
-                <section class="col-12 col-sm-12 col-md-12 col-lg-8">
+                <section class="col-12 col-sm-12 col-md-8">
 
                     <p> <b>Resposta às vacinas:</b> Pesquisas indicam que a Coronavac, do Butantan, manteve sua
                         capacidade de proteção em locais onde a Gama já estava disseminada. A Fiocruz anunciou que a
@@ -38,7 +38,7 @@
                         que ainda não tivemos uma grande penetração das variantes importadas.</p>
                         <p class="text-end"> Fonte:<a href="https://saude.abril.com.br/medicina/variantes-do-coronavirus-quem-sao-e-como-se-comportam/#:~:text=Beta%20(antiga%20B.&text=Muta%C3%A7%C3%B5es%3A%20T%C3%AAm%20altera%C3%A7%C3%B5es%20em%20comum,v%C3%ADrus%20a%20escapar%20dos%20anticorpos.">Veja Saúde</a></p>
                 </section>
-                <section class="col-10 col-sm-12 col-md-12 col-lg-4">
+                <section class="col-10 col-sm-12 col-md-4">
                     <img class="imglargura py-2" src="imagens/corona vermelho.png"
                         alt="Imagem que ilustra uma versão cartunizada de um virus, na cor vermelha">
                 </section>

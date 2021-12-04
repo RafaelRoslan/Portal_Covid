@@ -5,7 +5,7 @@
 <main class="container text-justify ">
   <div class="row py-4 justify-content-evenly ">
     <?php include_once('includes/var_nav.php'); ?>
-      <article class="col-10 col-sm-12 col-md-12 col-lg-7 mt-4">
+      <article class="col-10 col-sm-12 col-md-6 col-lg-7 mt-4">
         <h2> Entenda como surgem as variantes dos vírus e por que, na pandemia de Covid, a Delta preocupa. </h2>
 
 
@@ -36,7 +36,7 @@
 
       </article>
 
-    <section class="col-10 col-sm-12 col-md-12 col-lg-3 mt-5 p-3 bg-dark bg-opacity-25 rounded-3">
+    <section class="col-10 col-sm-12 col-md-5  col-lg-4 mt-5 p-3 bg-dark bg-opacity-25 rounded-3">
       <h2> Estudos do Instituto Butantan </h2>
 
       <div class="row ">

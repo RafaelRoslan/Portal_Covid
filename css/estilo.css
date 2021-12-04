@@ -54,3 +54,12 @@
 .icones{
   font-size: 28px !important;
 }
+
+.limpar{
+  text-decoration: none !important;
+  color: black;
+}
+
+pera a:hover{
+  background-color: rgb(89, 134, 119) !important;
+}
