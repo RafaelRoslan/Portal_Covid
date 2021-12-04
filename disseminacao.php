@@ -3,17 +3,18 @@
 
 <main class="container text-justify ">
 
-    <article class="mt-2 mb-4">
-      <h2 class="text-center">Disseminação</h2>
-    </article>
- 
+  <article class="mt-2 mb-4">
+    <h2 class="text-center">Disseminação</h2>
+  </article>
+
   <?php include_once('includes/dissem_nav.php'); ?>
-  
-  <div class="row py-4 justify-content-evenly align-items-center">
-    <article class="col-10 col-sm-8 col-md-10 col-lg-7">
+
+  <article class="row py-4 justify-content-evenly align-items-center">
+    <section class="col-10 col-sm-8 col-md-7 col-lg-7">
       <h2 class="text-center">Visão Geral</h2>
       <p>Em 31 de dezembro de 2019, a Organização Mundial da Saúde &#40;OMS&#41; foi alertada sobre vários casos de
-        pneumonia na cidade de Wuhan, província de Hubei, na República Popular da China. Tratava-se de uma nova cepa &#40;tipo&#41;de coronavírus que não havia sido identificada antes em seres humanos.</p>
+        pneumonia na cidade de Wuhan, província de Hubei, na República Popular da China. Tratava-se de uma nova cepa
+        &#40;tipo&#41;de coronavírus que não havia sido identificada antes em seres humanos.</p>
       <p>Uma semana depois, em 7 de janeiro de 2020, as autoridades chinesas confirmaram que haviam identificado um novo
         tipo de coronavírus. Os coronavírus estão por toda parte. Eles são a segunda principal causa de resfriado comum
         &#40;após rinovírus&#41; e, até as últimas décadas, raramente causavam doenças mais graves em humanos do que o
@@ -27,13 +28,14 @@
         manter o sistema de vigilância alerta, preparado para detectar, isolar e cuidar precocemente de pacientes
         infectados com o novo coronavírus.</p>
 
-</article>
+    </section>
 
 
-    <aside class="col-10 col-sm-8 col-md-8 col-lg-4">
-      <img src="imagens/corona_geral.png" class="imglargura px-2" alt="ilustração que representa o corona virus como o planeta terra.">
+    <aside class="col-10 col-sm-8 col-md-4 col-lg-4">
+      <img src="imagens/corona_geral.png" class="imglargura px-2"
+        alt="ilustração que representa o corona virus como o planeta terra.">
     </aside>
-</div>
+  </article>
 </main>
 
 <!-- fim do conteudo -->

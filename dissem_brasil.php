@@ -34,7 +34,7 @@
                 janeiro de 2021, Manaus testemunhou um pico de casos e hospitalizações, um colapso do sistema
                 hospitalar, incluindo falta de oxigênio para pacientes. O número de mortos é insuportável, pois Manaus
                 já registrou 39,8% mais mortes por COVID-19 em 2021 do que em 2020.</p>
-            <p>fonte: <a
+            <p class="text-end">fonte: <a
                     href="https://www.ufrgs.br/microbiologando/2021/04/19/publicado-artigo-sobre-o-padrao-de-disseminacao-da-covid-19-no-brasil/">ufrgs/microbiologando</a>
             </p>
         </article>

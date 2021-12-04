@@ -14,6 +14,12 @@
   }
 }
 
+@media only screen and (max-width: 578px) {
+  .logo {
+    margin: auto;
+  }
+}
+
 .sublinhado a:hover{
   text-decoration-line: underline;
 }
@@ -46,6 +52,5 @@
 }
 
 .icones{
-  max-width: 24px !important;
-  height: auto !important; 
+  font-size: 28px !important;
 }

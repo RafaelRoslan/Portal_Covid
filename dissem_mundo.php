@@ -9,8 +9,8 @@
 
   <?php include_once('includes/dissem_nav.php'); ?>
 
-  <div class="row py-4 justify-content-evenly ">
-    <article class="col-10 col-sm-10 col-md-10 col-lg-10">
+  <article class="row py-4 justify-content-evenly ">
+    <section class="col-10 col-sm-10 col-md-10 col-lg-10">
       <h2 class="text-center mb-3">Como Mundo Respondeu ao Covid</h2>
       <p>Depois do vírus ter sido identificado, diversos casos foram sendo detectados em outros países até chegar em
         todos os continentes. Países como Espanha, França e Itália foram os mais afetados na Europa durante os primeiros
@@ -21,7 +21,7 @@
         continente asiático. Em abril do mesmo ano, os Estados Unidos passaram a registrar um grande número de casos,
         sendo o novo epicentro da pandemia. Em maio, o Brasil tornou-se o epicentro da doença e em outubro de 2020 a
         Europa era considerada o epicentro novamente.</p>
-    </article>
+    </section>
 
     <!--iTALIA-->
     <div class="col-10 col-sm-10 col-md-10 col-lg-10 ">
@@ -32,7 +32,7 @@
             alt="graficos de casos registrados na Itália, desde a abril de 2020 até novembro de 2021.">
         </aside>
 
-        <article class="col-12 col-sm-12 col-md-10 col-lg-5 bg-dark bg-opacity-25 rounded-3 p-3">
+        <section class="col-12 col-sm-12 col-md-10 col-lg-5 bg-dark bg-opacity-25 rounded-3 p-3">
           <h2 class="text-center mb-3">Itália</h2>
 
           <p>Em março de 2020, a Itália era o segundo país com o maior número de casos, ficando somente atrás da China.
@@ -52,14 +52,14 @@
           <p>No dia 7 de maio de 2021, a Itália contava com cerca de 4.092.747 casos contabilizados de Covid-19, sendo
             que
             122.470 pessoas morreram desde o início da pandemia.</p>
-        </article>
+        </section>
       </div>
     </div>
 
     <!--ESTADOS UNIDOS-->
     <div class="col-10 col-sm-10 col-md-10 col-lg-10 ">
       <div class="row mb-3 justify-content-evenly align-items-center">
-        <article class="col-12 col-sm-12 col-md-10 col-lg-5 bg-dark bg-opacity-25 rounded-3 p-3">
+        <section class="col-12 col-sm-12 col-md-10 col-lg-5 bg-dark bg-opacity-25 rounded-3 p-3">
           <h2 class="text-center mb-3">Estados Unidos</h2>
           <p>O primeiro caso de Covid-19 foi registrado nos EUA em 21 de janeiro de 2020. No início de fevereiro do
             mesmo
@@ -80,7 +80,7 @@
           <p>No dia 7 de maio de 2021, o país contava com 32.635.603 milhões de casos confirmados e era o líder em
             mortes
             causadas pela doença, com 580.615 mil mortos.</p>
-        </article>
+        </section>
 
         <aside class="col-12 col-sm-12 col-md-10 col-lg-7">
           <img src="imagens/grafico_eua.png" class="imglargura px-2"
@@ -112,7 +112,7 @@
       <p>fonte: <a href="https://www.politize.com.br/covid-19-um-ano-de-pandemia/">politize</a></p>
     </section>
 
-  </div>
+  </article>
 </main>
 
 

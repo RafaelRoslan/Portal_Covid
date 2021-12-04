@@ -4,13 +4,13 @@
 
 <main class="container-fluid">
   <div class="container">
-    <article class="row mt-5 justify-content-evenly">
+    <article class="row mt-5 justify-content-center align-items-center">
       <div class="col-12 col-sm-12 col-md-12 col-lg-6 mt-1  text-center">
-        <h1>Portal Covid</h1>
+        <h1><b>Portal Covid</b></h1>
         <h3>Portal informativo sobre o Covid-19</h3>
       </div>
-      <div class="col-12 col-sm-12 col-md-12 col-lg-6 align-items-center ">
-        <h1 class="display-4 text-center">LOGO</h1>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-2 align-items-center ">
+        <img class="imglargura" src="imagens/logo.png" alt="Logo do grupo Gejoneis. Um patinho usando máscara.">
       </div>
     </article>
   </div>
@@ -47,10 +47,10 @@
       <div class="card card-body text-center">
         <h5 class="card-text mb-1 text-center">Indicadores</h5>
         <hr class="m-2">
-        
-          <p class="card-text mb-1 "><b>Taxa de Letalidade:</b></p>
-          <p class="card-text">22.129.409</p>
-       
+
+        <p class="card-text mb-1 "><b>Taxa de Letalidade:</b></p>
+        <p class="card-text">22.129.409</p>
+
         <div class="row justify-content-center align-items-center ">
           <div class="col-6 text-center">
             <p class="card-text mb-1 "><b>Taxa de Mortalidade:</b></p>
@@ -70,33 +70,46 @@
 
     <h1>Últimas Notícias</h1>
     <div class="row justify-content-center align-items-center">
-      <section class="card m-2 cardlargura2">
-        <img src="imagens/virus.jpg" class="card-img-top py-2" alt="imagem que ilustra o virus do COVID-19.">
-        <div class="card-body mt-2">
-          <h5 class="card-text"><b>Ômicron: Estudo preliminar aponta que variante causa mais reinfecções de covid-19</b></h5>
-        </div>
-      </section>
 
       <section class="card m-2 cardlargura2">
-        <img src="imagens/vacinacao.jpg" class="card-img-top py-2" alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
+        <a
+          href="https://g1.globo.com/saude/coronavirus/noticia/2021/12/03/omicron-estudo-preliminar-aponta-que-variante-causa-mais-reinfeccoes-de-covid-19.ghtml">
+          <img src="imagens/virus.jpg" class="card-img-top py-2" alt="imagem que ilustra o virus do COVID-19.">
+          <div class="card-body mt-2">
+            <h5 class="card-text"><b>Ômicron: Estudo preliminar aponta que variante causa mais reinfecções de
+                covid-19</b></h5>
+          </div>
+        </a>
+      </section>
+
+
+      <section class="card m-2 cardlargura2">
+        <a href="https://veja.abril.com.br/saude/covid-19-numero-de-mortes-diarias-e-inferior-a-500-ha-20-dias/">
+        <img src="imagens/vacinacao.jpg" class="card-img-top py-2"
+          alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
         <div class="card-body mt-2">
           <h5 class="card-text"><b>Covid-19: Número de mortes diárias é inferior a 500 há 20 dias</b></h5>
         </div>
+        </a>
       </section>
 
       <section class="card m-2 cardlargura2">
-        <img src="imagens/antivac.jpg" class="card-img-top py-2" alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
+        <a href="https://www.em.com.br/app/noticia/internacional/2021/12/02/interna_internacional,1327991/apos-quadro-grave-de-covid-19-lider-antivacina-afirma-que-vai-se-imunizar.shtml">
+        <img src="imagens/antivac.jpg" class="card-img-top py-2"
+          alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
         <div class="card-body mt-2">
           <h5 class="card-text"><b>Após quadro grave de COVID-19, líder antivacina afirma que vai se imunizar</b></h5>
         </div>
+        </a>
       </section>
       <section class="card m-2 cardlargura2">
-        <img src="imagens/vacina_preparacao.jpg" class="card-img-top py-2" alt="foto que mostra as mão de um enfermeiro preparando um dose da vacina.">
+        <img src="imagens/vacina_preparacao.jpg" class="card-img-top py-2"
+          alt="foto que mostra as mão de um enfermeiro preparando um dose da vacina.">
         <div class="card-body mt-2">
           <h5 class="card-text"><b>Após quadro grave de COVID-19, líder antivacina afirma que vai se imunizar</b></h5>
         </div>
       </section>
-      
+
       <div class="row justify-content-center align-items-center">
         <section class="col-10 col-sm-10 col-md-10 col-lg-6 bg-dark bg-opacity-25 rounded-2 mt-3 p-2 text-center">
           <h4 class="m-0"><a href="https://www.google.com/search?q=covid+19+noticias">Leia mais</a></h4>

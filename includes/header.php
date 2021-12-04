@@ -21,18 +21,15 @@
 <body class="fontemukta">
   <header>
     <nav class="navbar navbar-expand-lg navbar-light paleta1">
-      <div class="container-fluid"> <!--batata-->
+      <div class="container-fluid">
         
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#teste"
-          aria-controls="teste" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobile_nav"
+          aria-controls="mobile_nav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div > <!--class="frango"-->
-          <a href="index.php"><img src="imagens/target.svg" alt="icone"></a>
-          <a class="navbar-brand" href="index.php">Portal Covid</a>
-        </div>
-        <div class="collapse navbar-collapse sublinhado" id="teste">
-          
+        <a class="mx-2 logo" href="index.php"><img src="imagens/icon_32.png" alt="icone"></a>
+        <div class="collapse navbar-collapse sublinhado p-3 p-sm-0" id="mobile_nav">
+        <a class="navbar-brand" href="index.php" >Portal Covid</a>
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? "disabled" : ''; ?>" href="index.php">Home</a>
