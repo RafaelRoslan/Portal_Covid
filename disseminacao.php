@@ -31,7 +31,7 @@
 
 
     <aside class="col-10 col-sm-8 col-md-8 col-lg-4">
-      <img src="imagens/corona_geral.png" class="img-fluid" alt="ilustração que representa o corona virus como o planeta terra.">
+      <img src="imagens/corona_geral.png" class="imglargura px-2" alt="ilustração que representa o corona virus como o planeta terra.">
     </aside>
 </div>
 </main>

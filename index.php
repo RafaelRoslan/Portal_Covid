@@ -17,27 +17,50 @@
 
   <section class="row mt-5 justify-content-evenly bg-secondary bg-opacity-25">
 
-    <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
-      <div class="card card-body">
-        <p class="card-text">Casos&#40;Brasil&#41;</p>
-        <p class="card-text">16,9 mi</p>
-        <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+    <div class="row mt-3 text text-center">
+      <h2>BRASIL</h2>
+    </div>
+
+    <div class="col-10 col-sm-6 col-md-3 col-lg-3 mt-2 mb-3">
+      <div class="card card-body text-center">
+        <h5 class="card-text mb-1">Casos Confirmados</h5>
+        <hr class="m-2">
+        <p class="card-text mb-1"><b>Total</b></p>
+        <p class="card-text">22.129.409</p>
+        <p class="card-text mb-1"><b>Último Período</b></p>
+        <p class="card-text">10.627</p>
       </div>
     </div>
 
-    <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
-      <div class="card card-body">
-        <p class="card-text">Casos&#40;Brasil&#41;</p>
-        <p class="card-text">16,9 mi</p>
-        <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+    <div class="col-10 col-sm-6 col-md-3 col-lg-3 mt-2 mb-3">
+      <div class="card card-body text-center">
+        <h5 class="card-text mb-1">Óbitos Confirmados</h5>
+        <hr class="m-2">
+        <p class="card-text mb-1"><b>Total</b></p>
+        <p class="card-text">615.400</p>
+        <p class="card-text mb-1"><b>Último Período</b></p>
+        <p class="card-text">221</p>
       </div>
     </div>
 
-    <div class="col-10 col-sm-6 col-md-3 col-lg-3 my-3">
-      <div class="card card-body">
-        <p class="card-text">Casos&#40;Brasil&#41;</p>
-        <p class="card-text">16,9 mi</p>
-        <img src="img/virus_vermelho.png" class="img-fluid" alt="..." id="img_card" width="40" height="36">
+    <div class="col-10 col-sm-6 col-md-3 col-lg-3 mt-2 mb-3">
+      <div class="card card-body text-center">
+        <h5 class="card-text mb-1 text-center">Indicadores</h5>
+        <hr class="m-2">
+        
+          <p class="card-text mb-1 "><b>Taxa de Letalidade:</b></p>
+          <p class="card-text">22.129.409</p>
+       
+        <div class="row justify-content-center align-items-center ">
+          <div class="col-6 text-center">
+            <p class="card-text mb-1 "><b>Taxa de Mortalidade:</b></p>
+            <p class="card-text">292,8 &#40;100.000 hab&#41;</p>
+          </div>
+          <div class="col-6 text-center">
+            <p class="card-text mb-1"><b>Taxa de Incidência:</b></p>
+            <p class="card-text">10.530,4 &#40;100.000 hab&#41;</p>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -48,39 +71,39 @@
     <h1>Últimas Notícias</h1>
     <div class="row justify-content-center align-items-center">
       <section class="card m-2 cardlargura2">
-        <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+        <img src="imagens/virus.jpg" class="card-img-top py-2" alt="imagem que ilustra o virus do COVID-19.">
+        <div class="card-body mt-2">
+          <h5 class="card-text"><b>Ômicron: Estudo preliminar aponta que variante causa mais reinfecções de covid-19</b></h5>
         </div>
       </section>
 
       <section class="card m-2 cardlargura2">
-        <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+        <img src="imagens/vacinacao.jpg" class="card-img-top py-2" alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
+        <div class="card-body mt-2">
+          <h5 class="card-text"><b>Covid-19: Número de mortes diárias é inferior a 500 há 20 dias</b></h5>
         </div>
       </section>
 
       <section class="card m-2 cardlargura2">
-        <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
+        <img src="imagens/antivac.jpg" class="card-img-top py-2" alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
+        <div class="card-body mt-2">
+          <h5 class="card-text"><b>Após quadro grave de COVID-19, líder antivacina afirma que vai se imunizar</b></h5>
         </div>
       </section>
+      <section class="card m-2 cardlargura2">
+        <img src="imagens/vacina_preparacao.jpg" class="card-img-top py-2" alt="foto que mostra as mão de um enfermeiro preparando um dose da vacina.">
+        <div class="card-body mt-2">
+          <h5 class="card-text"><b>Após quadro grave de COVID-19, líder antivacina afirma que vai se imunizar</b></h5>
+        </div>
+      </section>
+      
+      <div class="row justify-content-center align-items-center">
+        <section class="col-10 col-sm-10 col-md-10 col-lg-6 bg-dark bg-opacity-25 rounded-2 mt-3 p-2 text-center">
+          <h4 class="m-0"><a href="https://www.google.com/search?q=covid+19+noticias">Leia mais</a></h4>
+        </section>
+      </div>
     </div>
 
-    <div class="row justify-content-center align-items-center">
-      <section class="card m-2 cardlargura2">
-        <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-            content.</p>
-        </div>
-      </section>
-    </div>
 
   </article>
 
