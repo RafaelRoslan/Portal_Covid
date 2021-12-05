@@ -28,7 +28,7 @@
 
     <aside class="row py-2 my-5 justify-content-evenly">
 
-      <section class="card col-5 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
+      <section class="card col-12 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
         <div class="row g-0 align-items-center">
           <div class="col-md-5 py-2">
             <img src="..." class="img-fluid rounded-start" alt="...">
@@ -36,15 +36,14 @@
           <div class="col-md-7">
             <div class="card-body">
               <h5 class="card-title">ANDERSON "PORPETA"</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                content. This content is a little bit longer.</p>
+              <p class="card-text">Meu nome é Anderson da Silva, tenho 25 anos, estou cursando sistemas para internet por conta dos incentivos de amigos e parentes que trabalham na área</p>
               <p class="card-text"><small class="text-muted">RA: 2650832023009"</small></p>
             </div>
           </div>
         </div>
       </section>
 
-      <section class="card col-5 col-sm-10 col-md-10 col-lg-5 m-2 bg-dark bg-opacity-25 ">
+      <section class="card col-12 col-sm-10 col-md-10 col-lg-5 m-2 bg-dark bg-opacity-25 ">
         <div class="row g-0 align-items-center">
           <div class="col-md-5 py-2">
             <img src="imagens/felipe.jpg" class="imglargura rounded-3" alt="Foto do Felipe, um dos desenvolvedores do projeto Portal">
@@ -61,14 +60,14 @@
         </div>
       </section>
 
-      <section class="card col-5 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25 ">
+      <section class="card col-12 col-sm-10 col-md-10 col-lg-5 m-2 bg-dark bg-opacity-25 ">
         <div class="row g-0 align-items-center">
           <div class="col-md-5 py-2">
             <img src="imagens/giovana.jpg" class="imglargura rounded-3" alt="A Giovana. Um dos desenvolvedores do site.">
-          </div>
+            </div>
           <div class="col-md-7">
             <div class="card-body">
-              <h5 class="card-title">THE GIOVANA</h5>
+              <h5 class="card-title">THE GIOVANA, "STEVE MAGAL"</h5>
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
                 content. This content is a little bit longer.</p>
               <p class="card-text"><small class="text-muted">Comentário: "SOU RICA! RICA!!"</small></p>
@@ -77,7 +76,7 @@
         </div>
       </section>
 
-      <section class="card col-5 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
+      <section class="card col-12 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
         <div class="row g-0 align-items-center">
           <div class="col-md-5 py-2">
             <img src="imagens/rafael.jpg" class="imglargura rounded-3" alt="Rafael. Um dos desenvolvedores do site.">
