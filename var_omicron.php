@@ -6,15 +6,15 @@
         <?php include_once('includes/var_nav.php'); ?>
 
 
-        <article class="col-10 col-sm-12 col-md-12 col-lg-8 mt-4">
+        <article class="col-10 col-sm-12 col-md-11 col-lg-8 mt-4">
             <h2>Variante Ômicron </h2>
             <div class="row justify-content-around align-items-center">
-                <section class="col-10 col-sm-12 col-md-12 col-lg-4">
+                <section class="col-10 col-sm-12 col-md-4">
                     <img class="imglargura py-2" src="imagens/corona azul.png"
                         alt="Imagem que ilustra uma versão cartunizada de um virus, na cor azul">
                 </section>
 
-                <section class="col-12 col-sm-12 col-md-12 col-lg-8">
+                <section class="col-12 col-sm-12 col-md-8">
                     <!--texto aqui-->
                     <p> A nova variante B.1.1.529, batizada de ômicron pela Organização Mundial da Saúde &#40;OMS&#41;,
                         foi descoberta em 11 de novembro de 2021 em Botsuana, que faz fronteira com a África do Sul,

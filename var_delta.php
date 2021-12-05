@@ -5,7 +5,7 @@
     <div class="row py-4 justify-content-evenly ">
         <?php include_once('includes/var_nav.php'); ?>
 
-        <article class="col-10 col-sm-12 col-md-12 col-lg-8 mt-4">
+        <article class="col-10 col-sm-12 col-md-11 col-lg-8 mt-4">
             <h2>Variante Delta</h2>
 
             <p> <b>Quem é:</b> Detectada em outubro de 2020 na Índia, foi rotulada como variante de preocupação
@@ -19,11 +19,11 @@
                 maior de hospitalizações está em investigação, mas ainda não foi confirmado.</p>
 
             <div class="row justify-content-around align-items-center">
-                <section class="col-10 col-sm-12 col-md-12 col-lg-4">
+                <section class="col-10 col-sm-12 col-md-4">
                     <img class="imglargura py-2" src="imagens/corona roxo.png"
                         alt="Imagem que ilustra uma versão cartunizada de um virus, na cor roxo">
                 </section>
-                <section class="col-12 col-sm-12 col-md-12 col-lg-8">
+                <section class="col-12 col-sm-12 col-md-8">
 
                     <p> <b>Resposta às vacinas:</b> Estudos mostram redução importante na ação de anticorpos
                         neutralizantes com apenas uma dose das vacinas de Pfizer e AstraZeneca. Com duas doses, porém, a
