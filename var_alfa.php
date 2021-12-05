@@ -1,5 +1,4 @@
 <?php include_once('includes/header.php'); ?>
-<link rel="stylesheet" href="css/variante.css">
 <!-- inicio do conteudo-->
 <main class="container text-justify ">
   <div class="row py-4 justify-content-evenly ">
