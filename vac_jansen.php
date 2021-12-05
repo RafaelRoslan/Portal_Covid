@@ -40,7 +40,7 @@
                                     ao vírus.</p>
 
                         </section>
-                        <section class="col-10 col-sm-10 col-md-10 col-lg-6 mt-lg-4 mt-md-4">
+                        <section class="col-12 col-sm-12 col-md-10 col-lg-6 mt-lg-4 mt-md-4">
 
                               <p>A tecnologia biomolecular baseada no chamado “vetor viral”, que consiste na utilização
                                     de um vírus modificado para estimular o sistema imunológico a produzir anticorpos

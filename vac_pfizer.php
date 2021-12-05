@@ -51,7 +51,7 @@
                                     alt="Imagem com ampolas das vacinas contra COVID-19.">
                         </aside>
 
-                        <section class="col-10 col-sm-10 col-md-12 col-lg-12">
+                        <section class="col-12 col-sm-12 col-md-12 col-lg-12">
                               <p>As reações da vacina podem aparecer entre 1 e 2 dias após sua aplicação. Os sintomas
                                     mais
                                     comuns incluem dor, inchaço ou vermelhidão no local da aplicação, cansaço,
