@@ -56,7 +56,7 @@
           <section>
             <p>Limitar o contato próximo entre pessoas infectadas e outras pessoas é importante para reduzir as chances de transmissão. Seguir as medidas de distanciamento diminui a velocidade de transmissão do vírus. </p>
             <p>Trata-se de uma estratégia importante quando há indivíduos já infectados, mas ainda assintomáticos ou oligossintomáticos, que não se sabem portadores da doença e não estão em isolamento.</p>
-            <p>Além disso, recomenda-se a manutenção de uma distância física mínima de pelo menos 1 metro de outras pessoas, especialmente daquelas com sintomas respiratórios e um grande número de pessoas (aglomerações) tanto ao ar livre quanto em ambientes fechados.</p>
+            <p>Além disso, recomenda-se a manutenção de uma distância física mínima de pelo menos 1 metro de outras pessoas, especialmente daquelas com sintomas respiratórios e um grande número de pessoas &#40;aglomerações&#41; tanto ao ar livre quanto em ambientes fechados.</p>
             <p>Garantir uma boa ventilação em ambientes internos também é uma medida importante para prevenir a transmissão em ambientes coletivos.</p>
           </section>
         </div>

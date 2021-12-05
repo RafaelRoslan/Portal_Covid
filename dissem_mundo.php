@@ -71,7 +71,7 @@
             de
             100.000. Por isso, na época, o governo estadunidense apelou para que a população continuasse a seguir as
             recomendações estatais como distanciamento social, higiene das mãos e o uso de máscaras.</p>
-          <p>Além disso, em junho de 2020, a agência reguladora FDA (Food and Drug Administration) anulou a autorização
+          <p>Além disso, em junho de 2020, a agência reguladora FDA &#40;Food and Drug Administration&#41; anulou a autorização
             para uso de cloroquina e hidroxicloroquina em caráter emergencial para pacientes diagnosticados com
             Covid-19,
             já que as pesquisas comprovaram que o uso do medicamento não era eficaz no combate ou na prevenção da

@@ -16,7 +16,7 @@
 
                 <section class="col-12 col-sm-12 col-md-12 col-lg-8">
                     <!--texto aqui-->
-                    <p> A nova variante B.1.1.529, batizada de ômicron pela Organização Mundial da Saúde (OMS),
+                    <p> A nova variante B.1.1.529, batizada de ômicron pela Organização Mundial da Saúde &#40;OMS&#41;,
                         foi descoberta em 11 de novembro de 2021 em Botsuana, que faz fronteira com a África do Sul,
                         onde a cepa também foi encontrada. Neste país, os registros ocorreram principalmente nas cidades de Joanesburgo e Pretória,
                         na província de Gauteng, onde a incidência da covid-19 está bastante alta. </p>
@@ -27,7 +27,7 @@
 
             <!--texto aqui-->
             <p> Mais de 20 países em outras partes do mundo já confirmaram casos da nova variante, inclusive o Brasil e vários na Europa. </p>
-            <p> Para tentar conter a disseminação do vírus, diversos países, entre eles os EUA, todos os 27 membros da União Europeia (UE) e o Brasil,
+            <p> Para tentar conter a disseminação do vírus, diversos países, entre eles os EUA, todos os 27 membros da União Europeia &#40;UE&#41; e o Brasil,
              impuseram restrições para viagens com origem na África do Sul e vizinhos. Japão e Israel chegaram a fechar suas fronteiras paras estrangeiros. </p>
 
             <p class="text-end"> Fonte:<a href="https://www.brasildefato.com.br/2021/12/02/o-que-se-sabe-sobre-a-variante-omicron-do-coronavirus">Brasil de Fato</a></p>

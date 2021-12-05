@@ -43,8 +43,8 @@
                         <section class="col-10 col-sm-10 col-md-12 col-lg-12">
 
                               <p>A eficácia geral apresentada pela AstraZeneca para a vacina nos testes foi de cerca de
-                                    70% (entre 62% e 90%), após a aplicação das duas doses. Sendo assim, apresentou
-                                    resultado satisfatório (acima dos 50% exigidos pela ANVISA) e também tem grande
+                                    70% &#40;entre 62% e 90%&#41;, após a aplicação das duas doses. Sendo assim, apresentou
+                                    resultado satisfatório &#40;acima dos 50% exigidos pela ANVISA&#41; e também tem grande
                                     potencial de redução do número de internações pela doença, o que promete reduzir
                                     consideravelmente a taxa de ocupação do Sistema Único de Saúde.</p>
 
