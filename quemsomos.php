@@ -31,13 +31,13 @@
       <section class="card col-12 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
         <div class="row g-0 align-items-center">
           <div class="col-md-5 py-2">
-            <img src="..." class="img-fluid rounded-start" alt="...">
+            <img src="imagens/anderson.jpg" class="img-fluid rounded-start" alt="...">
           </div>
           <div class="col-md-7">
             <div class="card-body">
               <h5 class="card-title">ANDERSON "PORPETA"</h5>
               <p class="card-text">Meu nome é Anderson da Silva, tenho 25 anos, estou cursando sistemas para internet por conta dos incentivos de amigos e parentes que trabalham na área.</p>
-              <p class="card-text">Responsável pela página: <a href="prevenção.php">Prevenção.</a></p>
+              <p class="card-text">Responsável pela página: <a href="prevencao.php">Prevenção, </a><a href="contato.php">contato, </a><a href="consequencia.php">consequencia.</a></p>
               <p class="card-text"><small class="text-muted">RA: 2650832023009</small></p>
             </div>
           </div>
