@@ -36,8 +36,9 @@
           <div class="col-md-7">
             <div class="card-body">
               <h5 class="card-title">ANDERSON "PORPETA"</h5>
-              <p class="card-text">Meu nome é Anderson da Silva, tenho 25 anos, estou cursando sistemas para internet por conta dos incentivos de amigos e parentes que trabalham na área</p>
-              <p class="card-text"><small class="text-muted">RA: 2650832023009"</small></p>
+              <p class="card-text">Meu nome é Anderson da Silva, tenho 25 anos, estou cursando sistemas para internet por conta dos incentivos de amigos e parentes que trabalham na área.</p>
+              <p class="card-text">Responsável pela página: <a href="prevenção.php">Prevenção.</a></p>
+              <p class="card-text"><small class="text-muted">RA: 2650832023009</small></p>
             </div>
           </div>
         </div>
@@ -54,7 +55,8 @@
               <p class="card-text">Me Chamo Felipe, tive meu contato com T.I em 2013, quando trabalhei como técnico de manutenção de computadores,
                  logo após cursei Informática para Internet na Etec-SR, onde tive minha primeira experiência com programação,
                  agora estou cursando Sistemas para Internet na Fatec-SR. Atualmente buscando oportunidade na área.</p>
-              <p class="card-text"><small class="text-muted">Comentário: "100% Giovana"</small></p>
+              <p class="card-text">Responsável pelas páginas: <a href="variante.php">Variantes,</a><a href="var_alfa.php">Variante Alfa,</a><a href="var_beta.php">Variante Beta,</a><a href="var_delta.php">Variante Delta,</a><a href="var_gama.php">Variante Gama e </a><a href="var_omicron.php">Variante Ômicron.</a></p>
+              <p class="card-text"><small class="text-muted">R.A: 2650831823016</small></p>
             </div>
           </div>
         </div>
@@ -63,14 +65,14 @@
       <section class="card col-12 col-sm-10 col-md-10 col-lg-5 m-2 bg-dark bg-opacity-25 ">
         <div class="row g-0 align-items-center">
           <div class="col-md-5 py-2">
-            <img src="imagens/giovana.jpg" class="imglargura rounded-3" alt="A Giovana. Um dos desenvolvedores do site.">
+            <img src="imagens/gi.jpg" class="imglargura rounded-3" alt="A Giovana. Um dos desenvolvedores do site.">
             </div>
           <div class="col-md-7">
             <div class="card-body">
               <h5 class="card-title">THE GIOVANA, "STEVE MAGAL"</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                content. This content is a little bit longer.</p>
-              <p class="card-text"><small class="text-muted">Comentário: "SOU RICA! RICA!!"</small></p>
+              <p class="card-text">Me chamo Giovana Chagas e tenho 20 anos. Conheci a área da programação aos 15 anos e tive meus altos e baixos, até finalmente me apaixonar por completo pela área. Atualmente trabalho na área e e estou começando a trilhar meu caminho para alcançar meu objetivo profissional.</p>
+              <p class="card-text">Responsável pelas páginas: <a href="vacina.php">Vacinas,</a><a href="vac_pfizer.php">Pfizer,</a><a href="vac_coronavac.php">Coronavac,</a><a href="vac_astrazeneca.php">Astrazeneca e </a><a href="vac_jansen.php">Johnson & Johnson.</a></p>
+              <p class="card-text"><small class="text-muted">R.A: 2650832123032</small></p>
             </div>
           </div>
         </div>
@@ -85,6 +87,7 @@
             <div class="card-body">
               <h5 class="card-title">RAFAEL "STEVE"</h5>
               <p class="card-text">Muitos me chamam de “Steve &#40;Jobs&#41;” desde a época da ETEC em 2009 onde além de ganhar esse apelido, tive meu primeiro contato com programação. Por gostar de games, sempre tive o interesse em aprender com fazê-los e isso me levou a fazer uma faculdade de jogos. Agora faço Sistemas para Internet para aprimorar meu conhecimento.</p>
+              <p class="card-text">Responsável pelas páginas: <a href="disseminação.php">Disseminação,</a><a href="dissem_mundo.php">Disseminação no Mundo e </a><a href="dissem_brasil.php">Disseminação no Brasil.</a></p>
               <p class="card-text"><small class="text-muted">RA: 2650832113006</small></p>
             </div>
           </div>
