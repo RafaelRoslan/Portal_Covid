@@ -33,6 +33,10 @@ p {
     background-color: #5e8888;
 }
 
+.corfonte {
+    color: black !important;
+}
+
 
 /* FIM PALETA DE CORES */
 
@@ -65,10 +69,6 @@ p {
 
 
 /* TESTE */
-
-.corfonte {
-    color: black !important;
-}
 
 
 /* .cardcontato {
