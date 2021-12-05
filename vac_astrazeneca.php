@@ -1,5 +1,4 @@
 <?php include_once('includes/header.php'); ?>
-<link rel="stylesheet" type="text/css" href="css/vacina.css">
 <!-- inicio do conteudo -->
 
 
