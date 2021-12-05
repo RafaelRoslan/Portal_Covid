@@ -2,7 +2,7 @@
 <!-- inicio do conteudo -->
 
 <main class="container text-justify altura">
-  <article class="col-10 col-sm-10 col-md-10 col-lg-10 offset-1">
+  <article class="col-10 col-sm-10 col-md-10 col-lg-11 offset-1">
 
     <h2 class="text-center my-4">OS “ANBANDONADOS”</h2>
     <p>Esse foi o título nos dados, com esse pequeno erro gramatical, seja isso apenas um mero erro ao digitar ou algo
@@ -28,28 +28,28 @@
 
     <aside class="row py-2 my-5 justify-content-evenly">
 
-      <section class="card mx-2 my-3 bg-dark bg-opacity-25 cardlargura">
-        <div class="row g-0">
-          <div class="col-md-4">
+      <section class="card col-5 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
+        <div class="row g-0 align-items-center">
+          <div class="col-md-5 py-2">
             <img src="..." class="img-fluid rounded-start" alt="...">
           </div>
-          <div class="col-md-8">
+          <div class="col-md-7">
             <div class="card-body">
               <h5 class="card-title">ANDERSON "PORPETA"</h5>
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
                 content. This content is a little bit longer.</p>
-              <p class="card-text"><small class="text-muted">Comentário: "100% Giovana"</small></p>
+              <p class="card-text"><small class="text-muted">RA: 2650832023009"</small></p>
             </div>
           </div>
         </div>
       </section>
 
-      <section class="card my-3 mx-2 bg-dark bg-opacity-25 cardlargura">
-        <div class="row g-0">
-          <div class="col-md-4">
-            <img src="imagens/felipe.jpg" class="img-fluid rounded-start" alt="Foto do Felipe, um dos desenvolvedores do projeto Portal">
+      <section class="card col-5 col-sm-10 col-md-10 col-lg-5 m-2 bg-dark bg-opacity-25 ">
+        <div class="row g-0 align-items-center">
+          <div class="col-md-5 py-2">
+            <img src="imagens/felipe.jpg" class="imglargura rounded-3" alt="Foto do Felipe, um dos desenvolvedores do projeto Portal">
           </div>
-          <div class="col-md-8">
+          <div class="col-md-7">
             <div class="card-body">
               <h5 class="card-title">FELIPE GÓES</h5>
               <p class="card-text">Me Chamo Felipe, tive meu contato com T.I em 2013, quando trabalhei como técnico de manutenção de computadores,
@@ -61,12 +61,12 @@
         </div>
       </section>
 
-      <section class="card my-3 mx-2 bg-dark bg-opacity-25 cardlargura">
-        <div class="row g-0">
-          <div class="col-md-4 py-2">
+      <section class="card col-5 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25 ">
+        <div class="row g-0 align-items-center">
+          <div class="col-md-5 py-2">
             <img src="imagens/giovana.jpg" class="imglargura rounded-3" alt="A Giovana. Um dos desenvolvedores do site.">
           </div>
-          <div class="col-md-8">
+          <div class="col-md-7">
             <div class="card-body">
               <h5 class="card-title">THE GIOVANA</h5>
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
@@ -77,17 +77,16 @@
         </div>
       </section>
 
-      <section class="card my-3 mx-2 bg-dark bg-opacity-25 cardlargura">
-        <div class="row g-0">
-          <div class="col-md-4 py-2">
+      <section class="card col-5 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
+        <div class="row g-0 align-items-center">
+          <div class="col-md-5 py-2">
             <img src="imagens/rafael.jpg" class="imglargura rounded-3" alt="Rafael. Um dos desenvolvedores do site.">
           </div>
-          <div class="col-md-8">
+          <div class="col-md-7">
             <div class="card-body">
               <h5 class="card-title">RAFAEL "STEVE"</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                content. This content is a little bit longer.</p>
-              <p class="card-text"><small class="text-muted">Comentário: "100% Giovana"</small></p>
+              <p class="card-text">Muitos me chamam de “Steve &#40;Jobs&#41;” desde a época da ETEC em 2009 onde além de ganhar esse apelido, tive meu primeiro contato com programação. Por gostar de games, sempre tive o interesse em aprender com fazê-los e isso me levou a fazer uma faculdade de jogos. Agora faço Sistemas para Internet para aprimorar meu conhecimento.</p>
+              <p class="card-text"><small class="text-muted">RA: 2650832113006</small></p>
             </div>
           </div>
         </div>
