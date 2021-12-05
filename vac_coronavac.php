@@ -47,7 +47,7 @@
 
             </article>
 
-            <aside class="col-12 col-sm-12 col-md-4 col-lg-4">
+            <aside class="col-10 col-sm-10 col-md-4 col-lg-4">
                   <img class="vac rounded-3" src="imagens/coronaimg.jpg" alt="Imagem com ampolas das vacinas contra COVID-19.">
             </aside>
 
