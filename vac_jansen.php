@@ -46,8 +46,8 @@
                               <p>A tecnologia biomolecular baseada no chamado “vetor viral”, que consiste na utilização
                                     de um vírus modificado para estimular o sistema imunológico a produzir anticorpos
                                     contra o novo coronavírus.Durante o processo de fabricação da vacina, uma espécie de
-                                    vírus "enfraquecido", após ser modificado para não se multiplicar (tornando-o não
-                                    replicante), carrega parte do material genético do SARS-CoV-2 responsável pela
+                                    vírus "enfraquecido", após ser modificado para não se multiplicar &#40;tornando-o não
+                                    replicante&#41;, carrega parte do material genético do SARS-CoV-2 responsável pela
                                     produção de uma proteína, chamada Spike, que auxilia o vírus da COVID-19 a invadir
                                     as células humanas.</p>
 

@@ -54,6 +54,7 @@
         </div>
       </div>
 
+
       <div class="col d-flex justify-content-center my-3">
         <div class="card mx-2 my-3 corcard cardlargura">
           <img src="imagens/distanciamento" class="card-img-top caixaimg" alt="...">
@@ -74,6 +75,7 @@
                 transmissão em ambientes coletivos.</p>
             </section>
           </div>
+
         </div>
       </div>
 

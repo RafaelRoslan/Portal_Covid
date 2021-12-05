@@ -48,8 +48,8 @@
         identificou quatro novas linhagens da variante Delta. Apesar do número crescente de variantes, casos de Covid-19
         diminuíram em São Paulo.</p>
       <p> As informações foram apresentadas pela diretora do Centro de Desenvolvimento Científico do Butantan, Sandra
-        Vessoni, em evento realizado nesta segunda-feira (30/8) pelo ILP (Instituto do Legislativo Paulista) em parceria
-        com a Fapesp (Fundação de Amparo à Pesquisa no Estado de São Paulo).</p>
+        Vessoni, em evento realizado nesta segunda-feira &#40;30/8&#41; pelo ILP &#40;Instituto do Legislativo Paulista&#41; em parceria
+        com a Fapesp &#40;Fundação de Amparo à Pesquisa no Estado de São Paulo&#41;.</p>
         <p class="text-end"> Fonte:<a href="https://g1.globo.com/fantastico/noticia/2021/06/28/entenda-como-surgem-as-variantes-dos-virus-e-por-que-na-pandemia-de-covid-a-delta-preocupa.ghtml">G1 Brasil</a></p>
 
       <!--<h4> O que as variantes nos dizem </h4> -->

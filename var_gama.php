@@ -12,7 +12,7 @@
             <p> <b> Mutações:</b> É muito parecida com a Beta, carregando as mesmas mutações principais na espícula do
                 vírus.</p>
             <p> <b>Comportamento:</b> Mais transmissível, tanto que devastou o país entre março e abril e ainda está
-                fazendo estragos. Estudos apontam uma taxa de ataque (quantas pessoas um indivíduo doente infecta)
+                fazendo estragos. Estudos apontam uma taxa de ataque &#40;quantas pessoas um indivíduo doente infecta&#41;
                 semelhante à da variante Alfa, entre 1,6 e 1,4, ante 0,8 do Sars-CoV-2 “original”. Pode escapar dos
                 anticorpos adquiridos em contatos anteriores com outras linhagens do vírus. A redução da ação deles é
                 considerada moderada, mas já abre caminho para a reinfecção. Agora, a questão da severidade é um
@@ -22,7 +22,7 @@
                 isso pode ter acontecido mais por conta da combinação de alta transmissibilidade e baixa adesão
                 às medidas restritivas, que permite que mais gente se contamine”, aponta o virologista Fernando
                 Spilki, coordenador da Rede Corona Ômica, do Ministério da Ciência, Tecnologia, Inovações e
-                Comunicações (MCTI).</p>
+                Comunicações &#40;MCTI&#41;.</p>
 
             <div class="row justify-content-around align-items-center">
 
@@ -30,8 +30,8 @@
 
                     <p> <b>Resposta às vacinas:</b> Pesquisas indicam que a Coronavac, do Butantan, manteve sua
                         capacidade de proteção em locais onde a Gama já estava disseminada. A Fiocruz anunciou que a
-                        Covishield (AstraZeneca) também faz frente à mutante. Ensaios de neutralização (quando os
-                        anticorpos são testados in vitro), trazem ainda resultados positivos da Comirnaty (Pfizer), que
+                        Covishield &#40;AstraZeneca&#41; também faz frente à mutante. Ensaios de neutralização &#40;quando os
+                        anticorpos são testados in vitro&#41;, trazem ainda resultados positivos da Comirnaty &#40;Pfizer&#41;, que
                         devem se confirmar no mundo real.</p>
                     <p> <b>Situação epidemiológica:</b> Calcula-se que seja responsável por nove em cada dez casos de
                         Covid-19 no país. Suas características fazem com que ela até agora vença a concorrência, tanto
