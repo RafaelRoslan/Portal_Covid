@@ -35,9 +35,9 @@
             hospedeiro,
             onde ocorrem as infecções virais.</p>
         </section>
-        <section class="col-12 col-sm-12 col-md-6 col-lg-12 ">
-          <img class="imglargura px-4" src="imagens/pulmao.png">
-        </section >
+        <div class="col-12 col-sm-12 col-md-6 col-lg-12 ">
+          <img class="imglargura px-4" src="imagens/pulmao.png" alt="imagem ilustrando um pulmão infectado pelo vírus do Covid-19">
+        </div >
       </aside>
 
     </div>
