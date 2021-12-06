@@ -11,9 +11,10 @@
                 <img class="imglargura rounded-pill" src="imagens/vacina_banner.jpg" alt="Desenho de seringa com vírus.">
             </div>
         </div>
-    </div>
-    <div class="col-10 col-sm-10 col-md-10 col-lg-10">
-        <?php include_once('includes/vac_nav.php'); ?>
+
+        <div class="col-10 col-sm-10 col-md-10 col-lg-10">
+            <?php include_once('includes/vac_nav.php'); ?>
+        </div>
     </div>
 
     <div class="row justify-content-center mt-5">

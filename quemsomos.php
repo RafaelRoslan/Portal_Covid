@@ -28,72 +28,79 @@
 
     <aside class="row py-2 my-5 justify-content-evenly">
 
-      <section class="card col-12 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
-        <div class="row g-0 align-items-center">
-          <div class="col-md-4 py-2">
-            <img src="imagens/anderson.jpg" class="img-fluid rounded-start" alt="Anderson. Um dos desenvolvedores do site.">
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <h5 class="card-title">ANDERSON "PORPETA"</h5>
+      <div class="row row-col-sm-12 g-4 cardajuste">
+        <div class="col col-sm-6 col-md-6  col-lg-3">
+          <div class="card corcard">
+            <img src="imagens/anderson.jpg" class="card-img-top" alt="Anderson. Um dos desenvolvedores do site">
+            <section class="card-body">
+              <h5 class="card-title text-center">Anderson "Porpeta"</h5>
               <p class="card-text">Meu nome é Anderson da Silva, tenho 25 anos, estou cursando sistemas para internet por conta dos incentivos de amigos e parentes que trabalham na área.</p>
-              <p class="card-text">Responsável pela página: <a href="prevencao.php">Prevenção, </a><a href="contato.php">contato, </a><a href="consequencia.php">consequencia.</a></p>
+              <p class="card-text">Responsável pelas páginas: </p>
+              <ul class="list-unstyled sublinhado">
+                <li><a href="prevencao.php" class="nav-link p-0 text-muted corfonte">Prevenção</a></li>
+                <li><a href="contato.php" class="nav-link p-0 text-muted corfonte">Contato</a></li>
+                <li><a href="consequencia.php" class="nav-link p-0 text-muted corfonte">Consequencia</a></li>
+              </ul>
               <p class="card-text"><small class="text-muted">RA: 2650832023009</small></p>
-            </div>
+            </section>
           </div>
         </div>
-      </section>
-
-      <section class="card col-12 col-sm-10 col-md-10 col-lg-5 m-2 bg-dark bg-opacity-25">
-        <div class="row g-0 align-items-center">
-          <div class="col-md-5 py-2">
-            <img src="imagens/felipe.jpg" class="imglargura rounded-3" alt="Foto do Felipe, um dos desenvolvedores do projeto Portal">
-          </div>
-          <div class="col-md-7">
-            <div class="card-body">
-              <h5 class="card-title">FELIPE GÓES</h5>
+        <div class="col col-sm-6 col-md-6  col-lg-3">
+          <div class="card corcard">
+            <img src="imagens/felipe.jpg" class="card-img-top" alt="Felipe. Um dos desenvolvedores do site.">
+            <section class="card-body">
+              <h5 class="card-title text-center">Felipe Góes</h5>
               <p class="card-text">Me Chamo Felipe, tive meu contato com T.I em 2013, quando trabalhei como técnico de manutenção de computadores,
-                 logo após cursei Informática para Internet na Etec-SR, onde tive minha primeira experiência com programação,
-                 agora estou cursando Sistemas para Internet na Fatec-SR. Atualmente buscando oportunidade na área.</p>
-              <p class="card-text">Responsável pelas páginas: <a href="variante.php">Variantes,</a><a href="var_alfa.php">Variante Alfa,</a><a href="var_beta.php">Variante Beta,</a><a href="var_delta.php">Variante Delta,</a><a href="var_gama.php">Variante Gama e </a><a href="var_omicron.php">Variante Ômicron.</a></p>
+                logo após cursei Informática para Internet na Etec-SR, onde tive minha primeira experiência com programação,
+                agora estou cursando Sistemas para Internet na Fatec-SR. Atualmente buscando oportunidade na área.</p>
+              <p class="card-text">Responsável pelas páginas: </p>
+              <ul class="list-unstyled sublinhado">
+                <li><a href="variante.php" class="nav-link p-0 text-muted corfonte">Variantes,</a></li>
+                <li><a href="var_alfa.php" class="nav-link p-0 text-muted corfonte">Variante Alfa,</a></li>
+                <li><a href="var_beta.php" class="nav-link p-0 text-muted corfonte">Variante Beta,</a></li>
+                <li><a href="var_delta.php" class="nav-link p-0 text-muted corfonte">Variante Delta,</a></li>
+                <li><a href="var_gama.php" class="nav-link p-0 text-muted corfonte">Variante Gama e </a></li>
+                <li><a href="var_omicron.php" class="nav-link p-0 text-muted corfonte">Variante Ômicron.</a></li>
+              </ul>
               <p class="card-text"><small class="text-muted">R.A: 2650831823016</small></p>
-            </div>
+            </section>
           </div>
         </div>
-      </section>
-
-      <section class="card col-12 col-sm-10 col-md-10 col-lg-5 m-2 bg-dark bg-opacity-25 ">
-        <div class="row g-0 align-items-center">
-          <div class="col-md-5 py-2">
-            <img src="imagens/gi.jpg" class="imglargura rounded-3" alt="A Giovana. Um dos desenvolvedores do site.">
-            </div>
-          <div class="col-md-7">
-            <div class="card-body">
-              <h5 class="card-title">THE GIOVANA, "STEVE MAGAL"</h5>
+        <div class="col col-sm-12 col-md-6 col-lg-3">
+          <div class="card corcard">
+            <img src="imagens/gi.jpg" class="card-img-top" alt="Giovana. Uma das desenvolvedoras do site">
+            <section class="card-body">
+              <h5 class="card-title text-center">Giovana Chagas</h5>
               <p class="card-text">Me chamo Giovana Chagas e tenho 20 anos. Conheci a área da programação aos 15 anos e tive meus altos e baixos, até finalmente me apaixonar por completo pela área. Atualmente trabalho na área e e estou começando a trilhar meu caminho para alcançar meu objetivo profissional.</p>
-              <p class="card-text">Responsável pelas páginas: <a href="vacina.php">Vacinas,</a><a href="vac_pfizer.php">Pfizer,</a><a href="vac_coronavac.php">Coronavac,</a><a href="vac_astrazeneca.php">Astrazeneca e </a><a href="vac_jansen.php">Johnson & Johnson.</a></p>
+              <p class="card-text">Responsável pelas páginas:</p>
+              <ul class="list-unstyled sublinhado">
+                <li><a href="vacina.php" class="nav-link p-0 text-muted corfonte">Vacinas</a></li>
+                <li><a href="vac_pfizer.php" class="nav-link p-0 text-muted corfonte">Pfizer</a></li>
+                <li><a href="vac_coronavac.php" class="nav-link p-0 text-muted corfonte">Coronavac</a></li>
+                <li><a href="vac_astrazeneca.php" class="nav-link p-0 text-muted corfonte">Astrazeneca</a></li>
+                <li><a href="vac_jansen.php" class="nav-link p-0 text-muted corfonte">Johnson & Johnson</a></li>
+              </ul>
               <p class="card-text"><small class="text-muted">R.A: 2650832123032</small></p>
-            </div>
+            </section>
           </div>
         </div>
-      </section>
-
-      <section class="card col-12 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
-        <div class="row g-0 align-items-center">
-          <div class="col-md-5 py-2">
-            <img src="imagens/rafael.jpg" class="imglargura rounded-3" alt="Rafael. Um dos desenvolvedores do site.">
-          </div>
-          <div class="col-md-7">
+        <div class="col col-sm-6 col-md-6 col-lg-3">
+          <section class="card corcard">
+            <img src="imagens/rafael.jpg" class="card-img-top" alt="Rafael. Um dos desenvolvedores do site">
             <div class="card-body">
-              <h5 class="card-title">RAFAEL "STEVE"</h5>
+              <h5 class="card-title text-center">Rafael "Steve"</h5>
               <p class="card-text">Muitos me chamam de “Steve &#40;Jobs&#41;” desde a época da ETEC em 2009 onde além de ganhar esse apelido, tive meu primeiro contato com programação. Por gostar de games, sempre tive o interesse em aprender com fazê-los e isso me levou a fazer uma faculdade de jogos. Agora faço Sistemas para Internet para aprimorar meu conhecimento.</p>
-              <p class="card-text">Responsável pelas páginas: <a href="disseminação.php">Disseminação,</a><a href="dissem_mundo.php">Disseminação no Mundo e </a><a href="dissem_brasil.php">Disseminação no Brasil.</a></p>
+              <p class="card-text">Responsável pelas páginas:</p>
+              <ul class="list-unstyled sublinhado">
+                <li><a href="disseminação.php" class="nav-link p-0 text-muted corfonte">Disseminação,</a></li>
+                <li><a href="dissem_mundo.php" class="nav-link p-0 text-muted corfonte">Disseminação no Mundo e </a></li>
+                <li><a href="dissem_brasil.php" class="nav-link p-0 text-muted corfonte">Disseminação no Brasil.</a></li>
+              </ul>
               <p class="card-text"><small class="text-muted">RA: 2650832113006</small></p>
             </div>
-          </div>
+          </section>
         </div>
-      </section>
-
+      </div>
 
     </aside>
 
