@@ -9,8 +9,8 @@
 
   <?php include_once('includes/dissem_nav.php'); ?>
 
-  <article class="row py-4 justify-content-evenly ">
-    <section class="col-10 col-sm-10 col-md-10 col-lg-10">
+  <div class="row py-4 justify-content-evenly ">
+    <article class="col-10 col-sm-10 col-md-10 col-lg-10">
       <h2 class="text-center mb-3">Como Mundo Respondeu ao Covid</h2>
       <p>Depois do vírus ter sido identificado, diversos casos foram sendo detectados em outros países até chegar em
         todos os continentes. Países como Espanha, França e Itália foram os mais afetados na Europa durante os primeiros
@@ -21,7 +21,7 @@
         continente asiático. Em abril do mesmo ano, os Estados Unidos passaram a registrar um grande número de casos,
         sendo o novo epicentro da pandemia. Em maio, o Brasil tornou-se o epicentro da doença e em outubro de 2020 a
         Europa era considerada o epicentro novamente.</p>
-    </section>
+    </article>
 
     <!--iTALIA-->
     <div class="col-10 col-sm-10 col-md-10 col-lg-10 ">
@@ -110,11 +110,11 @@
         doença desde o início da pandemia.</p>
     </article>
 
-    <section class="col-10 col-sm-10 col-md-10 col-lg-10 text-end mt-5">
+    <div class="col-10 col-sm-10 col-md-10 col-lg-10 text-end mt-5">
       <p>fonte: <a href="https://www.politize.com.br/covid-19-um-ano-de-pandemia/">politize</a></p>
-    </section>
+    </div>
 
-  </article>
+  </div>
 </main>
 
 
