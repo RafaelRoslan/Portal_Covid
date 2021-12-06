@@ -14,7 +14,7 @@
       <div class="col d-flex justify-content-center my-3">
         <div class="card mx-2 my-3 corcard cardlargura">
 
-          <img src="imagens/mascara" class="card-img-top caixaimg" alt="Mulher usando máscara descartavel">
+          <img src="imagens/mascara.jpg" class="card-img-top caixaimg" alt="Mulher usando máscara descartavel">
           <section class="card-body">
             <h5 class="card-title fontenegrito">USO DA MÁSCARA</h5>
 
@@ -35,9 +35,9 @@
 
       <div class="col d-flex justify-content-center my-3">
         <div class="card mx-2 my-3 corcard cardlargura">
-          <img src="imagens/2" class="card-img-top caixaimg" alt="Lavando a mão com água e sabão">
+          <img src="imagens/higienizacao.jpg" class="card-img-top caixaimg" alt="Lavando a mão com água e sabão">
           <section class="card-body">
-            <h5 class="card-title fontenegrito">HIGIENENIZAÇÃO</h5>
+            <h5 class="card-title fontenegrito">HIGIENIZAÇÃO</h5>
 
               <p>Medidas básicas na rotina diária, como lavar as mãos são fundamentais para a redução do contágio.</p>
               <p> O vírus também pode ser transferido de uma superfície para outra por meio das mãos contaminadas, o que
@@ -54,7 +54,7 @@
 
       <div class="col d-flex justify-content-center my-3">
         <div class="card mx-2 my-3 corcard cardlargura">
-          <img src="imagens/distanciamento" class="card-img-top caixaimg" alt="Pessoas na fila com distanciamento entre elas">
+          <img src="imagens/distanciamento.jpg" class="card-img-top caixaimg" alt="Pessoas na fila com distanciamento entre elas">
           <section class="card-body">
             <h5 class="card-title fontenegrito">DISTANCIAMENTO SOCIAL</h5>
 
@@ -75,7 +75,7 @@
 
       <div class="col d-flex justify-content-center my-3">
         <div class="card mx-2 my-3 corcard cardlargura">
-          <img src="imagens/3" class="card-img-top caixaimg" alt="Pessoas se higienizando no ambiente de trabalho">
+          <img src="imagens/trabalho.png" class="card-img-top caixaimg" alt="Pessoas se higienizando no ambiente de trabalho">
           <section class="card-body">
             <h5 class="card-title fontenegrito">CUIDADOS NO AMBIENTE DE TRABALHO</h5>
 
@@ -95,7 +95,7 @@
 
       <div class="col d-flex justify-content-center my-3">
         <div class="card mx-2 my-3 corcard cardlargura">
-          <img src="imagens/tosse" class="card-img-top caixaimg" alt="Mulher cobrindo a boca com o braço ao tossir">
+          <img src="imagens/tosse.jpg" class="card-img-top caixaimg" alt="Mulher cobrindo a boca com o braço ao tossir">
           <section class="card-body">
             <h5 class="card-title fontenegrito">CUBRA TOSSES E ESPIRROS</h5>
 
@@ -112,7 +112,7 @@
 
       <div class="col d-flex justify-content-center my-3">
         <div class="card mx-2 my-3 corcard cardlargura">
-          <img src="imagens/4" class="card-img-top caixaimg" alt="Rosto com protetor solar">
+          <img src="imagens/cuidados.png" class="card-img-top caixaimg" alt="Rosto com protetor solar">
           <section class="card-body">
             <h5 class="card-title fontenegrito">CUIDADOS COMPLEMENTARES</h5>
 
