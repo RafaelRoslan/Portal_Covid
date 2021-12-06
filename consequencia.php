@@ -37,7 +37,7 @@
         anterior à crise.</p>
         </article>
         <aside class="col-10 col-sm-10 col-md-10 col-lg-5 px-2">
-      <img src="imagens/comercio" class="imglargura rounded-3"
+      <img src="imagens/comercio.jpg" class="imglargura rounded-3"
         alt="ilustração que representa o corona virus como o planeta terra.">
     </aside>
 </div>
@@ -68,7 +68,7 @@
       </article>
 
       <aside class="col-10 col-sm-10 col-md-10 col-lg-5 order-lg-0">
-        <img src="imagens/trabalho" class="imglargura rounded-3"
+        <img src="imagens/trabalho.jpg" class="imglargura rounded-3"
           alt="graficos de casos registrados na Itália, desde a abril de 2020 até novembro de 2021.">
       </aside>
 
