@@ -39,7 +39,7 @@
             </p>
         </article>
 
-        <aside class="col-6 col-sm-12 col-md-11 col-lg-6 mt-3">
+        <aside class="col-10 col-sm-12 col-md-11 col-lg-6 mt-3">
             <h3 class="text-center">Ocorrências por Estado</h3>
             <table class="table">
                 <thead>

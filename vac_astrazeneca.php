@@ -39,7 +39,7 @@
                         </aside>
                         </aside>
 
-                        <section class="col-10 col-sm-10 col-md-12 col-lg-12">
+                        <section class="col-12 col-sm-12 col-md-12 col-lg-12">
 
                               <p>A eficácia geral apresentada pela AstraZeneca para a vacina nos testes foi de cerca de
                                     70% &#40;entre 62% e 90%&#41;, após a aplicação das duas doses. Sendo assim, apresentou
