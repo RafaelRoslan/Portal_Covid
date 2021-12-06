@@ -69,17 +69,17 @@
       <div class="col-4 col-sm-4 col-md-2 col-lg-2 m-0">
         <ul class="row list-unstyled">
           <li class="col-3">
-            <a class="link-dark" href="facebook.com">
+            <a class="link-dark" href="https://www.facebook.com/minsaude/">
               <i class="bi bi-facebook icones"></i>
             </a>
           </li>
           <li class="col-3">
-            <a class="link-dark" href="facebook.com">
+            <a class="link-dark" href="https://www.instagram.com/minsaude/">
               <i class="bi bi-instagram icones"></i>
             </a>
           </li>
           <li class="col-3">
-            <a class="link-dark" href="facebook.com">
+            <a class="link-dark" href="https://twitter.com/minsaude">
               <i class="bi bi-twitter icones"></i>
             </a>
           </li>
