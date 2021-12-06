@@ -15,7 +15,7 @@
         <h1><b>Portal Covid</b></h1>
         <h3>Portal informativo sobre o Covid-19</h3>
       </div>
-      
+
     </article>
   </div>
 
@@ -88,31 +88,28 @@
 
       <section class="card m-2 cardlargura2">
         <a href="https://veja.abril.com.br/saude/covid-19-numero-de-mortes-diarias-e-inferior-a-500-ha-20-dias/" class="limpar">
-        <img src="imagens/vacinacao.jpg" class="card-img-top py-2"
-          alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
-        <div class="card-body mt-2">
-          <h5 class="card-text"><b>Covid-19: Número de mortes diárias é inferior a 500 há 20 dias</b></h5>
-        </div>
+          <img src="imagens/vacinacao.jpg" class="card-img-top py-2" alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
+          <div class="card-body mt-2">
+            <h5 class="card-text"><b>Covid-19: Número de mortes diárias é inferior a 500 há 20 dias</b></h5>
+          </div>
         </a>
       </section>
 
       <section class="card m-2 cardlargura2">
         <a href="https://www.em.com.br/app/noticia/internacional/2021/12/02/interna_internacional,1327991/apos-quadro-grave-de-covid-19-lider-antivacina-afirma-que-vai-se-imunizar.shtml" class="limpar">
-        <img src="imagens/antivac.jpg" class="card-img-top py-2"
-          alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
-        <div class="card-body mt-2">
-          <h5 class="card-text"><b>Após quadro grave de COVID-19, líder antivacina afirma que vai se imunizar</b></h5>
-        </div>
+          <img src="imagens/antivac.jpg" class="card-img-top py-2" alt="foto que mostra lider antivacina.">
+          <div class="card-body mt-2">
+            <h5 class="card-text"><b>Após quadro grave de COVID-19, líder antivacina afirma que vai se imunizar</b></h5>
+          </div>
         </a>
       </section>
 
       <section class="card m-2 cardlargura2">
-        <a href="https://www.em.com.br/app/noticia/internacional/2021/12/02/interna_internacional,1327991/apos-quadro-grave-de-covid-19-lider-antivacina-afirma-que-vai-se-imunizar.shtml" class="limpar">
-        <img src="imagens/antivac.jpg" class="card-img-top py-2"
-          alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
-        <div class="card-body mt-2">
-          <h5 class="card-text"><b>Após quadro grave de COVID-19, líder antivacina afirma que vai se imunizar</b></h5>
-        </div>
+        <a href="https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/12/05/covid-19-coronavirus-vacinacao-mortes-internacao-brasil.htm" class="limpar">
+          <img src="imagens/noticia4.jpg" class="card-img-top py-2" alt="foto de uma senhora lamentando pela morte de alguem">
+          <div class="card-body mt-2">
+            <h5 class="card-text"><b>Não vacinados são 80% dos mortos e internados por covid-19 no Brasil</b></h5>
+          </div>
         </a>
       </section>
 
