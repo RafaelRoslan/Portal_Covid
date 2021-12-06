@@ -9,8 +9,8 @@
 
   <?php include_once('includes/dissem_nav.php'); ?>
 
-  <article class="row py-4 justify-content-evenly align-items-center">
-    <section class="col-10 col-sm-8 col-md-7 col-lg-7">
+  <div class="row py-4 justify-content-evenly align-items-center">
+    <article class="col-10 col-sm-8 col-md-7 col-lg-7">
       <h2 class="text-center">Visão Geral</h2>
       <p>Em 31 de dezembro de 2019, a Organização Mundial da Saúde &#40;OMS&#41; foi alertada sobre vários casos de
         pneumonia na cidade de Wuhan, província de Hubei, na República Popular da China. Tratava-se de uma nova cepa
@@ -28,14 +28,14 @@
         manter o sistema de vigilância alerta, preparado para detectar, isolar e cuidar precocemente de pacientes
         infectados com o novo coronavírus.</p>
 
-    </section>
+    </article>
 
 
     <aside class="col-10 col-sm-8 col-md-4 col-lg-4">
       <img src="imagens/corona_geral.png" class="imglargura px-2"
         alt="ilustração que representa o corona virus como o planeta terra.">
     </aside>
-  </article>
+  </div>
 </main>
 
 <!-- fim do conteudo -->
