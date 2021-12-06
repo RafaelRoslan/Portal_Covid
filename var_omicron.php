@@ -9,7 +9,7 @@
             <h2>Variante Ômicron </h2>
             <div class="row justify-content-around align-items-center">
                 <div class="col-10 col-sm-12 col-md-4">
-                    <img class="imglargura py-2" src="imagens/corona azul.png"
+                    <img class="imglargura py-2" src="imagens/corona_azul.png"
                         alt="Imagem que ilustra uma versão cartunizada de um virus, na cor azul">
                 </div>
 

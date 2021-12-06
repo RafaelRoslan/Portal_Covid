@@ -55,12 +55,12 @@
                 agora estou cursando Sistemas para Internet na Fatec-SR. Atualmente buscando oportunidade na área.</p>
               <p class="card-text">Responsável pelas páginas: </p>
               <ul class="list-unstyled sublinhado">
-                <li><a href="variante.php" class="nav-link p-0 text-muted corfonte">Variantes,</a></li>
-                <li><a href="var_alfa.php" class="nav-link p-0 text-muted corfonte">Variante Alfa,</a></li>
-                <li><a href="var_beta.php" class="nav-link p-0 text-muted corfonte">Variante Beta,</a></li>
-                <li><a href="var_delta.php" class="nav-link p-0 text-muted corfonte">Variante Delta,</a></li>
+                <li><a href="variante.php" class="nav-link p-0 text-muted corfonte">Variantes</a></li>
+                <li><a href="var_alfa.php" class="nav-link p-0 text-muted corfonte">Variante Alfa</a></li>
+                <li><a href="var_beta.php" class="nav-link p-0 text-muted corfonte">Variante Beta</a></li>
+                <li><a href="var_delta.php" class="nav-link p-0 text-muted corfonte">Variante Delta</a></li>
                 <li><a href="var_gama.php" class="nav-link p-0 text-muted corfonte">Variante Gama e </a></li>
-                <li><a href="var_omicron.php" class="nav-link p-0 text-muted corfonte">Variante Ômicron.</a></li>
+                <li><a href="var_omicron.php" class="nav-link p-0 text-muted corfonte">Variante Ômicron</a></li>
               </ul>
               <p class="card-text"><small class="text-muted">R.A: 2650831823016</small></p>
             </section>
@@ -92,9 +92,9 @@
               <p class="card-text">Muitos me chamam de “Steve &#40;Jobs&#41;” desde a época da ETEC em 2009 onde além de ganhar esse apelido, tive meu primeiro contato com programação. Por gostar de games, sempre tive o interesse em aprender com fazê-los e isso me levou a fazer uma faculdade de jogos. Agora faço Sistemas para Internet para aprimorar meu conhecimento.</p>
               <p class="card-text">Responsável pelas páginas:</p>
               <ul class="list-unstyled sublinhado">
-                <li><a href="disseminação.php" class="nav-link p-0 text-muted corfonte">Disseminação,</a></li>
+                <li><a href="disseminacao.php" class="nav-link p-0 text-muted corfonte">Disseminação</a></li>
                 <li><a href="dissem_mundo.php" class="nav-link p-0 text-muted corfonte">Disseminação no Mundo e </a></li>
-                <li><a href="dissem_brasil.php" class="nav-link p-0 text-muted corfonte">Disseminação no Brasil.</a></li>
+                <li><a href="dissem_brasil.php" class="nav-link p-0 text-muted corfonte">Disseminação no Brasil</a></li>
               </ul>
               <p class="card-text"><small class="text-muted">RA: 2650832113006</small></p>
             </div>
