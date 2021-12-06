@@ -105,13 +105,17 @@
         </div>
         </a>
       </section>
+
       <section class="card m-2 cardlargura2">
-        <img src="imagens/vacina_preparacao.jpg" class="card-img-top py-2"
-          alt="foto que mostra as mão de um enfermeiro preparando um dose da vacina.">
+        <a href="https://www.em.com.br/app/noticia/internacional/2021/12/02/interna_internacional,1327991/apos-quadro-grave-de-covid-19-lider-antivacina-afirma-que-vai-se-imunizar.shtml" class="limpar">
+        <img src="imagens/antivac.jpg" class="card-img-top py-2"
+          alt="foto que mostra uma mulher sendo vacinada por uma enfermeira.">
         <div class="card-body mt-2">
           <h5 class="card-text"><b>Após quadro grave de COVID-19, líder antivacina afirma que vai se imunizar</b></h5>
         </div>
+        </a>
       </section>
+
 
       <div class="row justify-content-center align-items-center">
         <section class="col-10 col-sm-10 col-md-10 col-lg-6 bg-dark bg-opacity-25 rounded-2 mt-3 p-2 text-center">

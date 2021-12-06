@@ -66,8 +66,8 @@
       <div class="col-7 col-sm-7 col-md-8 col-lg-7">
         <p class="m-0">© 2021 Gesonéis, Grupo. Todos os direitos reservados.</p>
       </div>
-      <ul class="list-unstyled col-4 col-sm-4 col-md-2 col-lg-2 m-0">
-        <div class="row">
+      <div class="col-4 col-sm-4 col-md-2 col-lg-2 m-0">
+        <ul class="row list-unstyled">
           <li class="col-3">
             <a class="link-dark" href="facebook.com">
               <i class="bi bi-facebook icones"></i>
@@ -83,8 +83,8 @@
               <i class="bi bi-twitter icones"></i>
             </a>
           </li>
-        </div>
-      </ul>
+        </ul>
+      </div>
     </section>
   </footer>
 </div>

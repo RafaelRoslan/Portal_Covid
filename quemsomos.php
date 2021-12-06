@@ -30,10 +30,10 @@
 
       <section class="card col-12 col-sm-10 col-md-10 col-lg-5 my-5 bg-dark bg-opacity-25">
         <div class="row g-0 align-items-center">
-          <div class="col-md-5 py-2">
+          <div class="col-md-4 py-2">
             <img src="imagens/anderson.jpg" class="img-fluid rounded-start" alt="Anderson. Um dos desenvolvedores do site.">
           </div>
-          <div class="col-md-7">
+          <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">ANDERSON "PORPETA"</h5>
               <p class="card-text">Meu nome é Anderson da Silva, tenho 25 anos, estou cursando sistemas para internet por conta dos incentivos de amigos e parentes que trabalham na área.</p>
