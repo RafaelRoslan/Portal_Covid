@@ -24,8 +24,8 @@
   <!--container2-->
   <div class="bg-dark bg-opacity-25">
     <div class="container">
-    <article class="row py-4 align-items-center justify-content-center ">
-      <section class="col-10 col-sm-12 col-md-11 col-lg-6 ">
+    <div class="row py-4 align-items-center justify-content-center ">
+      <article class="col-10 col-sm-12 col-md-11 col-lg-6 ">
       <h2 class="text-center fontenegrito">COMERCIO</h2>
       <p>A pandemia de Covid-19 afetou de maneira expressiva a atividade econômica, impondo um padrão de gestão do tipo
         stop and go, isto é: quando pioram os dados de saúde, fecha-se a economia; quando os dados melhoram, ela é
@@ -35,12 +35,12 @@
         contágio pela Covid-19. As perdas no faturamento do comércio resultaram na redução de 1,7 milhão de postos de
         trabalho em 2020, dentre um total de 16 milhões de pessoas que trabalhavam no setor no período imediatamente
         anterior à crise.</p>
-        </section>
+        </article>
         <aside class="col-10 col-sm-10 col-md-10 col-lg-5 px-2">
       <img src="imagens/comercio" class="imglargura rounded-3"
         alt="ilustração que representa o corona virus como o planeta terra.">
     </aside>
-    </article>
+</div>
     </div>
 
     
